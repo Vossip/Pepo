@@ -1,0 +1,485 @@
+Trait type: !vibe
+{ trait: 'Warped', chance: '100', occurrence: '0.20% out of 100%' }
+{ trait: '1:1', chance: '100', occurrence: '0.07% out of 100%' }
+{ trait: 'Hand Drawn', chance: '100', occurrence: '0.20% out of 100%' }
+{
+  trait: 'Hallucination',
+  chance: '100',
+  occurrence: '0.10% out of 100%'
+}
+{ trait: 'Chill', chance: '100', occurrence: '56.42% out of 100%' }
+{
+  trait: 'Exploratory',
+  chance: '100',
+  occurrence: '28.49% out of 100%'
+}
+{ trait: 'Trippy', chance: '100', occurrence: '12.82% out of 100%' }
+{ trait: 'Hyped', chance: '100', occurrence: '1.70% out of 100%' }
+
+Trait type: Name
+{
+  trait: 'Planetary System',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{
+  trait: 'Ethereum Chrome',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{
+  trait: 'Visitor Zombioni',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{ trait: 'Adventurer', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: 'Big Dreams', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: 'East Side', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: 'Ghost', chance: '100', occurrence: '0.01% out of 100%' }
+{
+  trait: 'Green Memories',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{ trait: 'HQ', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: 'Lunar', chance: '100', occurrence: '0.01% out of 100%' }
+{
+  trait: 'Mission Mars',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{ trait: 'Mountains', chance: '100', occurrence: '0.01% out of 100%' }
+{
+  trait: 'Mushroom Island',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{ trait: 'Tuesday', chance: '100', occurrence: '0.01% out of 100%' }
+{
+  trait: 'Vibenza Town',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{ trait: 'Visitor', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '1', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '2', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '3', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '4', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '5', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '6', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '7', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '9', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '10', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '11', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '12', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '14', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '15', chance: '100', occurrence: '0.01% out of 100%' }
+{
+  trait: 'Visitor Alienori',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{
+  trait: 'Visitor Ororioni',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{
+  trait: 'Beginning of The End',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+{ trait: '13', chance: '100', occurrence: '0.03% out of 100%' }
+{ trait: '121', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '114', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '115', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '116', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '117', chance: '100', occurrence: '0.01% out of 100%' }
+{ trait: '118', chance: '100', occurrence: '0.01% out of 100%' }
+
+Trait type: Atmosphere
+{ trait: 'Damp', chance: '7', occurrence: '5.73% out of 100%' }
+{ trait: 'Morning', chance: '20', occurrence: '15.56% out of 100%' }
+{ trait: 'Deep Space', chance: '25', occurrence: '8.36% out of 100%' }
+{
+  trait: 'Universe Foam',
+  chance: '5',
+  occurrence: '1.62% out of 100%'
+}
+{ trait: 'Bubble Gum', chance: '10', occurrence: '1.27% out of 100%' }
+{ trait: 'Dawn', chance: '25', occurrence: '3.38% out of 100%' }
+{ trait: 'Pink Light', chance: '30', occurrence: '4.52% out of 100%' }
+{ trait: 'Rainbow', chance: '25', occurrence: '3.66% out of 100%' }
+{
+  trait: 'Ghost Crash Night',
+  chance: '10',
+  occurrence: '0.24% out of 100%'
+}
+{ trait: 'Blue Light', chance: '15', occurrence: '20.00% out of 100%' }
+{
+  trait: 'Vibenza Dark',
+  chance: '40',
+  occurrence: '0.24% out of 100%'
+}
+{
+  trait: 'Vibenza Light',
+  chance: '40',
+  occurrence: '0.17% out of 100%'
+}
+{ trait: 'Bright', chance: '15', occurrence: '11.78% out of 100%' }
+{ trait: 'Cosmos', chance: '15', occurrence: '0.17% out of 100%' }
+{ trait: 'Dark Foam', chance: '3', occurrence: '3.39% out of 100%' }
+{ trait: 'Dark Night', chance: '15', occurrence: '6.65% out of 100%' }
+{ trait: 'Dusk', chance: '15', occurrence: '8.85% out of 100%' }
+{ trait: 'Gray', chance: '10', occurrence: '2.86% out of 100%' }
+{ trait: 'Jungle', chance: '5', occurrence: '0.84% out of 100%' }
+{ trait: 'Matrix', chance: '100', occurrence: '0.13% out of 100%' }
+
+Trait type: Topology
+{ trait: 'Forest', chance: '30', occurrence: '4.46% out of 100%' }
+{ trait: 'Crater', chance: '25', occurrence: '5.13% out of 100%' }
+{ trait: 'Red Planet', chance: '10', occurrence: '6.94% out of 100%' }
+{ trait: 'Glacier', chance: '10', occurrence: '7.79% out of 100%' }
+{ trait: 'Mountains', chance: '10', occurrence: '8.53% out of 100%' }
+{
+  trait: 'Ghost Bones',
+  chance: '100',
+  occurrence: '0.03% out of 100%'
+}
+{ trait: 'Hills', chance: '35', occurrence: '17.22% out of 100%' }
+{
+  trait: 'Spice Mountains',
+  chance: '30',
+  occurrence: '6.44% out of 100%'
+}
+{ trait: 'Blood Bones', chance: '20', occurrence: '0.19% out of 100%' }
+{ trait: 'Foam Hills', chance: '100', occurrence: '1.10% out of 100%' }
+{
+  trait: 'Snowy Mountains',
+  chance: '100',
+  occurrence: '11.60% out of 100%'
+}
+{ trait: 'Bones', chance: '100', occurrence: '0.68% out of 100%' }
+
+Trait type: Water
+{ trait: 'Ice', chance: '10', occurrence: '2.92% out of 100%' }
+{ trait: 'Magma', chance: '20', occurrence: '4.96% out of 100%' }
+{
+  trait: 'Golden Ocean',
+  chance: '10',
+  occurrence: '2.15% out of 100%'
+}
+{ trait: 'Ocean', chance: '10', occurrence: '16.91% out of 100%' }
+{ trait: 'Blood Lake', chance: '10', occurrence: '0.21% out of 100%' }
+{ trait: 'Swamp', chance: '10', occurrence: '14.32% out of 100%' }
+{ trait: 'Rainbow', chance: '100', occurrence: '1.98% out of 100%' }
+{ trait: 'Bubba', chance: '100', occurrence: '7.99% out of 100%' }
+{
+  trait: 'Rocky River',
+  chance: '100',
+  occurrence: '16.78% out of 100%'
+}
+
+Trait type: Landscape
+{
+  trait: 'Golden Sand Beach',
+  chance: '15',
+  occurrence: '2.48% out of 100%'
+}
+{
+  trait: 'Golden Sand Hill',
+  chance: '10',
+  occurrence: '1.44% out of 100%'
+}
+{
+  trait: 'Golden Sand Island',
+  chance: '20',
+  occurrence: '3.11% out of 100%'
+}
+{
+  trait: 'Golden Sand Lowland',
+  chance: '15',
+  occurrence: '2.25% out of 100%'
+}
+{ trait: 'Grass Beach', chance: '20', occurrence: '3.09% out of 100%' }
+{
+  trait: 'Collided Lowland',
+  chance: '25',
+  occurrence: '4.56% out of 100%'
+}
+{
+  trait: 'Moon Lowland NOT SURE maybe special',
+  chance: '0',
+  occurrence: '0.00% out of 100%'
+}
+{ trait: 'Sand Hill', chance: '15', occurrence: '2.56% out of 100%' }
+{
+  trait: 'Sand Lowland',
+  chance: '20',
+  occurrence: '3.18% out of 100%'
+}
+{ trait: 'Sand Valley', chance: '12', occurrence: '1.97% out of 100%' }
+{
+  trait: 'Space Dust Hill',
+  chance: '15',
+  occurrence: '2.71% out of 100%'
+}
+{
+  trait: 'Space Dust Lowland',
+  chance: '25',
+  occurrence: '4.06% out of 100%'
+}
+{
+  trait: 'Space Dust Valley',
+  chance: '20',
+  occurrence: '3.76% out of 100%'
+}
+{
+  trait: 'Bubble Gum Island',
+  chance: '10',
+  occurrence: '0.67% out of 100%'
+}
+{ trait: 'Grass Hill', chance: '20', occurrence: '6.34% out of 100%' }
+{
+  trait: 'Grass Lowland',
+  chance: '30',
+  occurrence: '5.98% out of 100%'
+}
+{
+  trait: 'Grass Valley',
+  chance: '25',
+  occurrence: '5.41% out of 100%'
+}
+{
+  trait: 'Shrubs Beach',
+  chance: '20',
+  occurrence: '3.59% out of 100%'
+}
+{ trait: 'Shrubs Hill', chance: '20', occurrence: '4.07% out of 100%' }
+{
+  trait: 'Shrubs Island',
+  chance: '20',
+  occurrence: '4.25% out of 100%'
+}
+{
+  trait: 'Shrubs Lowland',
+  chance: '20',
+  occurrence: '4.40% out of 100%'
+}
+{
+  trait: 'Shrubs Valley',
+  chance: '20',
+  occurrence: '4.62% out of 100%'
+}
+{ trait: 'Snow Beach', chance: '10', occurrence: '1.52% out of 100%' }
+{ trait: 'Snow Hill', chance: '10', occurrence: '1.48% out of 100%' }
+{ trait: 'Snow Island', chance: '20', occurrence: '3.39% out of 100%' }
+{
+  trait: 'Snow Lowland',
+  chance: '20',
+  occurrence: '3.25% out of 100%'
+}
+{ trait: 'Snow Valley', chance: '20', occurrence: '3.06% out of 100%' }
+{
+  trait: 'Grass Island',
+  chance: '100',
+  occurrence: '3.93% out of 100%'
+}
+{
+  trait: 'Gravel Island',
+  chance: '100',
+  occurrence: '0.01% out of 100%'
+}
+
+Trait type: Trees
+{ trait: 'Mushroom', chance: '20', occurrence: '0.38% out of 100%' }
+{ trait: 'Ancient', chance: '0', occurrence: '0.48% out of 100%' }
+{ trait: 'Bamboo', chance: '0', occurrence: '3.56% out of 100%' }
+{ trait: 'Birch', chance: '0', occurrence: '4.20% out of 100%' }
+{ trait: 'Blue Oak', chance: '40', occurrence: '3.15% out of 100%' }
+{ trait: 'Burned', chance: '0', occurrence: '0.67% out of 100%' }
+{
+  trait: "Dragon's Blood",
+  chance: '20',
+  occurrence: '1.32% out of 100%'
+}
+{ trait: 'Dwarf', chance: '0', occurrence: '4.02% out of 100%' }
+{ trait: 'Magic', chance: '15', occurrence: '1.25% out of 100%' }
+{ trait: 'Palm', chance: '40', occurrence: '3.18% out of 100%' }
+{ trait: 'Root Tree', chance: '50', occurrence: '3.78% out of 100%' }
+{ trait: 'Spruce', chance: '0', occurrence: '3.39% out of 100%' }
+
+Trait type: FlyingObject
+{ trait: 'Bird', chance: '0', occurrence: '2.71% out of 100%' }
+{ trait: 'Floppa', chance: '20', occurrence: '3.75% out of 100%' }
+{ trait: 'Helicopter', chance: '15', occurrence: '3.73% out of 100%' }
+{ trait: 'Kite', chance: '0', occurrence: '4.45% out of 100%' }
+{ trait: 'Plane', chance: '25', occurrence: '5.88% out of 100%' }
+{ trait: 'Rocket', chance: '40', occurrence: '9.30% out of 100%' }
+{ trait: 'Satelite', chance: '10', occurrence: '2.38% out of 100%' }
+{ trait: 'Explorer', chance: '10', occurrence: '2.64% out of 100%' }
+{ trait: 'Flies', chance: '7', occurrence: '1.31% out of 100%' }
+{ trait: 'Ghost', chance: '10', occurrence: '1.32% out of 100%' }
+
+Trait type: Sky
+{ trait: 'Meteors', chance: '0', occurrence: '5.77% out of 100%' }
+{
+  trait: 'Green Stripes',
+  chance: '10',
+  occurrence: '11.70% out of 100%'
+}
+{
+  trait: 'Orange Stripes',
+  chance: '10',
+  occurrence: '11.90% out of 100%'
+}
+{
+  trait: 'Alien Stripes',
+  chance: '5',
+  occurrence: '0.56% out of 100%'
+}
+{ trait: 'Blue Stripes', chance: '5', occurrence: '2.22% out of 100%' }
+{
+  trait: 'Dark Stripes',
+  chance: '10',
+  occurrence: '6.57% out of 100%'
+}
+{
+  trait: 'Falling Stars',
+  chance: '10',
+  occurrence: '2.72% out of 100%'
+}
+{
+  trait: 'FlyingStars',
+  chance: '10',
+  occurrence: '11.64% out of 100%'
+}
+{ trait: 'Pink Stripes', chance: '5', occurrence: '2.75% out of 100%' }
+{ trait: 'Snow', chance: '10', occurrence: '4.26% out of 100%' }
+{ trait: 'Stars', chance: '10', occurrence: '2.74% out of 100%' }
+{ trait: 'White Dots', chance: '10', occurrence: '13.79% out of 100%' }
+
+Trait type: Homes
+{ trait: 'Caravan', chance: '31', occurrence: '3.52% out of 100%' }
+{ trait: 'Castle', chance: '10', occurrence: '0.26% out of 100%' }
+{ trait: 'Hut', chance: '25', occurrence: '1.82% out of 100%' }
+{
+  trait: 'Light House Down Scale',
+  chance: '5',
+  occurrence: '0.03% out of 100%'
+}
+{ trait: 'Lighthouse', chance: '30', occurrence: '1.38% out of 100%' }
+{ trait: 'McBarn', chance: '30', occurrence: '0.98% out of 100%' }
+{ trait: 'Small House', chance: '10', occurrence: '1.81% out of 100%' }
+{ trait: 'White House', chance: '10', occurrence: '0.46% out of 100%' }
+{ trait: 'Windmill', chance: '35', occurrence: '1.80% out of 100%' }
+{ trait: 'Witch House', chance: '20', occurrence: '0.84% out of 100%' }
+{ trait: 'Cave', chance: '100', occurrence: '0.66% out of 100%' }
+
+Trait type: Celestial
+{ trait: '69 BH', chance: '30', occurrence: '2.55% out of 100%' }
+{ trait: 'Al Astra', chance: '1', occurrence: '0.14% out of 100%' }
+{ trait: 'Gazy A1', chance: '2', occurrence: '0.20% out of 100%' }
+{ trait: 'Ice Terran', chance: '15', occurrence: '1.51% out of 100%' }
+{ trait: '19 Uranus B', chance: '15', occurrence: '2.35% out of 100%' }
+{ trait: 'Lonely Fren', chance: '80', occurrence: '3.19% out of 100%' }
+{ trait: 'Mid Day Sun', chance: '50', occurrence: '5.40% out of 100%' }
+{
+  trait: 'Planetary System',
+  chance: '1',
+  occurrence: '0.01% out of 100%'
+}
+{ trait: 'Sunset', chance: '30', occurrence: '3.26% out of 100%' }
+{ trait: '11e Kepler', chance: '10', occurrence: '1.62% out of 100%' }
+{ trait: '876 Gliese', chance: '20', occurrence: '2.45% out of 100%' }
+{ trait: 'Brodas', chance: '20', occurrence: '2.04% out of 100%' }
+{ trait: 'Moon', chance: '20', occurrence: '4.60% out of 100%' }
+{ trait: 'NGC 1365', chance: '10', occurrence: '1.78% out of 100%' }
+{ trait: 'NGC 3393', chance: '30', occurrence: '4.40% out of 100%' }
+{
+  trait: 'Northern Lights',
+  chance: '10',
+  occurrence: '1.98% out of 100%'
+}
+{ trait: 'Three Frens', chance: '50', occurrence: '3.12% out of 100%' }
+{ trait: 'Terra', chance: '100', occurrence: '2.99% out of 100%' }
+
+Trait type: Monuments
+{ trait: 'Burger Meal', chance: '4', occurrence: '0.58% out of 100%' }
+{ trait: 'Burger', chance: '10', occurrence: '1.42% out of 100%' }
+{ trait: 'C-132', chance: '5', occurrence: '0.57% out of 100%' }
+{ trait: 'Chocolate', chance: '10', occurrence: '1.70% out of 100%' }
+{ trait: 'Lost Wig', chance: '4', occurrence: '0.44% out of 100%' }
+{ trait: 'Lost Wizard', chance: '2', occurrence: '0.27% out of 100%' }
+{ trait: 'Pepe', chance: '0', occurrence: '0.16% out of 100%' }
+{ trait: 'Pillars', chance: '12', occurrence: '1.84% out of 100%' }
+{ trait: 'Pyramid', chance: '15', occurrence: '1.98% out of 100%' }
+{ trait: 'Svibble', chance: '0', occurrence: '0.28% out of 100%' }
+{
+  trait: 'Ancient Pillars',
+  chance: '10',
+  occurrence: '1.37% out of 100%'
+}
+{
+  trait: 'Fast Food Drink',
+  chance: '10',
+  occurrence: '1.24% out of 100%'
+}
+{
+  trait: 'Long Cigarette',
+  chance: '25',
+  occurrence: '3.01% out of 100%'
+}
+{
+  trait: 'Short Cigarette',
+  chance: '20',
+  occurrence: '2.99% out of 100%'
+}
+{
+  trait: 'Square Portal',
+  chance: '10',
+  occurrence: '1.50% out of 100%'
+}
+{ trait: '3D Glasses', chance: '100', occurrence: '1.32% out of 100%' }
+
+Trait type: Residential
+{ trait: 'Destroyed ', chance: '3', occurrence: '0.57% out of 100%' }
+{
+  trait: 'Toadham City',
+  chance: '25',
+  occurrence: '4.03% out of 100%'
+}
+{
+  trait: 'Ghost Town Eyez',
+  chance: '0',
+  occurrence: '0.10% out of 100%'
+}
+{ trait: 'Ghost Town', chance: '0', occurrence: '0.06% out of 100%' }
+{ trait: 'Fancy Town ', chance: '15', occurrence: '2.45% out of 100%' }
+{
+  trait: 'Vibenza City Dark',
+  chance: '40',
+  occurrence: '0.16% out of 100%'
+}
+{
+  trait: 'Vibenza City Light',
+  chance: '40',
+  occurrence: '0.13% out of 100%'
+}
+{
+  trait: 'Toadham City Night',
+  chance: '100',
+  occurrence: '3.65% out of 100%'
+}
+
+Trait type: Vehicles
+{ trait: 'T3R3', chance: '15', occurrence: '0.94% out of 100%' }
+{ trait: 'Lambo', chance: '5', occurrence: '0.76% out of 100%' }
+{ trait: 'Mr.Bean', chance: '30', occurrence: '4.30% out of 100%' }
+
+Trait type: Crypto
+{ trait: 'Bitcoin', chance: '0', occurrence: '1.61% out of 100%' }
+{ trait: 'Doge', chance: '10', occurrence: '1.58% out of 100%' }
+{ trait: 'MMIX', chance: '100', occurrence: '0.73% out of 100%' }
+{ trait: 'WTF', chance: '100', occurrence: '2.64% out of 100%' }
+{ trait: 'Ethereum', chance: '100', occurrence: '1.55% out of 100%' }

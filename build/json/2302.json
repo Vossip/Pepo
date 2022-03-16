@@ -1,0 +1,44 @@
+{
+  "name": "Larva Chads #2302",
+  "description": "Larva Chads are a play on the CryptoPunks and Larva Lads.",
+  "image": "ipfs://QmQZyeyrd8AQVwQF93axb9CssfsNuGXmGxXdCN74mFux3h//2302.png",
+  "edition": 2302,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Diamond Hand"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "White Sneakers"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Slacks"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Black Shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Ski Goggles"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Fat Stack"
+    }
+  ]
+}
