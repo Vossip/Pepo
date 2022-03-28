@@ -1,0 +1,44 @@
+{
+  "name": "PEPO DON'T GIVE A F*CK #974",
+  "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
+  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/974.png",
+  "edition": 974,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Cleaver"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bandit"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "The Big Lebowski Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    }
+  ]
+}

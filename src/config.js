@@ -5,8 +5,8 @@ const isLocal = typeof process.pkg === "undefined";
 const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const { MODE } = require(path.join(basePath, "src/blendMode.js"));
 const description =
-  "Larva Chads are a play on the CryptoPunks and Larva Lads.";
-const baseUri = "ipfs://QmQZyeyrd8AQVwQF93axb9CssfsNuGXmGxXdCN74mFux3h/";
+  "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.";
+const baseUri = "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89";
 
 const layerConfigurations = [
 

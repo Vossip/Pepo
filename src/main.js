@@ -113,7 +113,7 @@ const drawBackground = () => {
 
 const addMetadata = (_dna, _edition) => {
   let tempMetadata = {
-    name: `Larva Chads #${_edition}`,
+    name: `PEPO DON'T GIVE A F*CK #${_edition}`,
     description: description,
     image: `${baseUri}/${_edition}.png`,
     edition: _edition,
@@ -256,7 +256,7 @@ const saveMetaDataSingleFile = (_editionCount) => {
       )
     : null;
   fs.writeFileSync(
-    `${buildDir}/json/${_editionCount}.json`,
+    `${buildDir}/json/${_editionCount}`,
     JSON.stringify(metadata, null, 2)
   );
 };
