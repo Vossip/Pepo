@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Light Wash"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
-      "value": "4D Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Brushcut"
+      "value": "Stringy"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Romanée-Conti"
     }
   ]
 }

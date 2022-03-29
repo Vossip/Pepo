@@ -6,31 +6,27 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Pink Jacket"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Special Friend"
+      "value": "Orbit"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Matrix Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Wizard"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Cheese"
+      "value": "None"
     }
   ]
 }

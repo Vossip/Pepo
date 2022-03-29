@@ -1,0 +1,36 @@
+{
+  "name": "PEPO DON'T GIVE A F*CK #34",
+  "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
+  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/34.png",
+  "edition": 34,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Paper Hand"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Khakis"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    }
+  ]
+}

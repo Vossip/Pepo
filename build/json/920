@@ -6,27 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "White Sneakers"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Light Wash"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "Monocle"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Puffballs"
+      "value": "Purple Puffballs"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "None"
     }
   ]
 }

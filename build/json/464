@@ -6,23 +6,27 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pink Slippers"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Designer Glasses"
     },
     {
       "trait_type": "Headwear",

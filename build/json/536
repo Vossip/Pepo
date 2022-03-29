@@ -10,27 +10,27 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Pinstrips"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Black Shirt"
+    },
+    {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Metaverse Visor"
+      "value": "Designer Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Puffballs"
+      "value": "Sombrero"
     },
     {
       "trait_type": "Accessory 1",

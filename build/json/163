@@ -6,19 +6,19 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cocktail"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Tops",
+      "value": "Red Shirt"
+    },
+    {
       "trait_type": "Bottom",
-      "value": "Golden"
+      "value": "Tan Shorts"
     },
     {
       "trait_type": "Face",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory 2",

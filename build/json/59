@@ -6,23 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "trait_type": "Face",
+      "value": "Terrified"
     },
     {
-      "trait_type": "Face",
-      "value": "Paper"
+      "trait_type": "Eyewear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Beige Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -30,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Gasoline"
     }
   ]
 }

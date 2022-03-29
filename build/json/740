@@ -6,19 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "Diamond Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Little Secret"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Rainbow"
+      "value": "Cry"
     },
     {
       "trait_type": "Eyewear",
@@ -26,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Afro"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",

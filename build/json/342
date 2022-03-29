@@ -6,31 +6,27 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "Mobster"
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Waffle Knit"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Happy"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Metaverse Visor"
+      "value": "4D Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Sombrero"
+      "value": "Pink Long"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fishbowl"
+      "value": "Skull"
     }
   ]
 }

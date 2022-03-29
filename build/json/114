@@ -6,23 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Pink Slippers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstrips"
+      "value": "Brown Regus"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Green Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Confused"
+      "value": "Undead"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Toque"
+      "value": "Green Mullet"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Fishbowl"
     }
   ]
 }

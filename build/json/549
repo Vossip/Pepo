@@ -6,15 +6,15 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Pink Slippers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Brown Regus"
+      "value": "Pinstrips"
     },
     {
       "trait_type": "Tops",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Damaged"
+      "value": "Orbit"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Bowlcut"
+      "value": "Pink Long"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Cheese"
     }
   ]
 }

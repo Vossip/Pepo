@@ -6,23 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Jacket"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Bandit"
     },
     {
       "trait_type": "Eyewear",
@@ -30,11 +30,11 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Green Mullet"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Silver Chain"
     },
     {
       "trait_type": "Accessory 2",

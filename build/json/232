@@ -6,31 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Orbit"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Matrix Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Pink Headband"
     },
     {
       "trait_type": "Accessory 1",

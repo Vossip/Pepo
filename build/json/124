@@ -6,23 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pink Slippers"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "Green Shirt"
+      "value": "Hawaiian"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Sombrero"
+      "value": "Orange Hair"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "None"
     }
   ]
 }

@@ -14,19 +14,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Khakis"
     },
     {
-      "trait_type": "Face",
-      "value": "Sophisticated"
-    },
-    {
-      "trait_type": "Eyewear",
+      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Disappointed"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Ski Goggles"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Blue Puffballs"
+      "value": "Brain"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "None"
     }
   ]
 }

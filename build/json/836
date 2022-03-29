@@ -6,23 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cocktail"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Pink Slippers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Face",
-      "value": "Sadisfied"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Cheese"
     }
   ]
 }

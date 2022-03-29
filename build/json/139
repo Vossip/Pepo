@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Diamond Hand"
     },
     {
       "trait_type": "Footwear",
@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Light Wash"
+      "value": "Khakis"
     },
     {
       "trait_type": "Tops",
-      "value": "Waffle Knit"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Beige Bucked Cap"
+      "value": "White Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

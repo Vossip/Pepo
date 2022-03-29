@@ -6,23 +6,19 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Diamond Hand"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Brown Regus"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
       "trait_type": "Face",
-      "value": "Scream"
+      "value": "Bandit"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +26,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Puffballs"
+      "value": "Short Feathered Hat"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Tennis Racket"
     }
   ]
 }

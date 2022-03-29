@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Tan Shorts"
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Jacket"
+      "value": "Blue Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Trippin"
+      "value": "Normal"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Noun"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Bowlcut"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fishbowl"
+      "value": "Gasoline"
     }
   ]
 }

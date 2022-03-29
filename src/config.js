@@ -48,7 +48,7 @@ const layerConfigurations = [
 // ------------------ Pepo ------------------
 
   {
-    growEditionSizeTo: 2500,
+    growEditionSizeTo: 1000,
     layersOrder: [
       { name: "Pepo" },
       { name: "Background" },

@@ -6,23 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cocktail"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Light Wash"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Black Suit"
     },
     {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Special Friend"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Designer Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Brown Brushcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -30,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fat Stack"
+      "value": "None"
     }
   ]
 }

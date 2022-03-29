@@ -1,0 +1,44 @@
+{
+  "name": "PEPO DON'T GIVE A F*CK #431",
+  "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
+  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/431.png",
+  "edition": 431,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Wata"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Blue Blazer"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Orbit"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Green Brushcut"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Fat Stack"
+    }
+  ]
+}

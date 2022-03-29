@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Cocktail"
     },
     {
       "trait_type": "Footwear",
@@ -14,11 +14,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Boxers"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Red Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Smile"
+      "value": "Cry"
     },
     {
       "trait_type": "Eyewear",
@@ -26,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Sombrero"
+      "value": "Stringy"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Cheese"
+      "value": "Skull"
     }
   ]
 }

@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Mobster"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Happy"
+      "value": "Evil"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "White Bucked Cap"
+      "value": "Old Tophat"
     },
     {
       "trait_type": "Accessory 1",

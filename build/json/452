@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Cocktail"
     },
     {
       "trait_type": "Footwear",
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Tan Shorts"
     },
     {
       "trait_type": "Tops",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Mohawk Rainbow"
     },
     {
       "trait_type": "Accessory 1",

@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Pink Jacket"
+      "value": "Little Secret"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Stringy"
+      "value": "Blue Toque"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Gasoline"
     }
   ]
 }

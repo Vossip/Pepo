@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
@@ -14,11 +14,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Gray Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Purple Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Happy"
+      "value": "Sus"
     },
     {
       "trait_type": "Eyewear",
@@ -26,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Wizard"
     },
     {
       "trait_type": "Accessory 1",

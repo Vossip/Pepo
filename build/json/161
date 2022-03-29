@@ -6,23 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red Chucks"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Gray Fannel"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Boxers"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Sophisticated"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Ski Goggles"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Swept Purple"
     },
     {
       "trait_type": "Accessory 1",

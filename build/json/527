@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Cocktail"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Old Undies"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Red Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Scream"
+      "value": "Sus"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Designer Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Pilot"
+      "value": "Brown Brushcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "None"
     }
   ]
 }

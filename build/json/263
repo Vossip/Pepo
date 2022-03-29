@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Bandit"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Wizard"
+      "value": "Purple Puffballs"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Gasoline"
+      "value": "None"
     }
   ]
 }

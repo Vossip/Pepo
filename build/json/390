@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Shirt"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Face",
-      "value": "Confused"
+      "value": "Connected"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Matrix Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Blue Toque"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Cheese"
     }
   ]
 }

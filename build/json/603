@@ -6,31 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Diamond Hand"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "Little Secret"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Rainbow"
+      "value": "Orbit"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Matrix Glasses"
+      "value": "Monocle"
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Toque"
+      "value": "Purple Brushcut"
     },
     {
       "trait_type": "Accessory 1",
