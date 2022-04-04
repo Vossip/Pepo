@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Diamond Hand"
+      "value": "Wiskey"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Sports Shirt"
+      "value": "Waffle Knit"
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Normal Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Puffballs"
+      "value": "Brain"
     },
     {
       "trait_type": "Accessory 1",

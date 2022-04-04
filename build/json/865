@@ -6,15 +6,19 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Beige Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Brown Regus"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
@@ -22,11 +26,11 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Puffballs"
+      "value": "Pink Toque"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "None"
     }
   ]
 }

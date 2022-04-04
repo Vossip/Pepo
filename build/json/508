@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cocktail"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +14,19 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "None"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Sadisfied"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Mullet"
+      "value": "Dark Wizard"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Romanée-Conti"
+      "value": "Bone"
     }
   ]
 }

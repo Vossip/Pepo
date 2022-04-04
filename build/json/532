@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
@@ -14,19 +14,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Little Secret"
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Headwear",
-      "value": "Cap"
+      "value": "Beige Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

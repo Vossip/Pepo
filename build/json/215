@@ -6,31 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Hawaiian"
+      "value": "Blue Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Sadisfied"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Miami Shades Golden"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Short Feathered Hat"
+      "value": "Poop"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fat Stack"
+      "value": "Cheese"
     }
   ]
 }

@@ -6,23 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Wiskey"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Purple Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Scream"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Pink Headband"
+      "value": "Green Bowlcut"
     },
     {
       "trait_type": "Accessory 1",

@@ -6,23 +6,19 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cleaver"
+      "value": "Wiskey"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstrips"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "None"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +26,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Brushcut"
+      "value": "Blue Puffballs"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "None"
     }
   ]
 }

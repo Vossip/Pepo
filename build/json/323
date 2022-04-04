@@ -6,15 +6,15 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Mobster"
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
@@ -22,19 +22,19 @@
     },
     {
       "trait_type": "Face",
-      "value": "Special Friend"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Dark Wizard"
+      "value": "Cheese"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

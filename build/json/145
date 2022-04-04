@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cocktail"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Sports Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Smile"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Sombrero"
     },
     {
       "trait_type": "Accessory 1",

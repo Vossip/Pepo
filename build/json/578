@@ -6,31 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Blue Blazer"
     },
     {
       "trait_type": "Bottom",
       "value": "Boxers"
     },
     {
-      "trait_type": "Tops",
-      "value": "None"
-    },
-    {
       "trait_type": "Face",
-      "value": "Sus"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Green Brushcut"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",

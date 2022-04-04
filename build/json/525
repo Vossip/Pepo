@@ -6,31 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Diamond Hand"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Tan Shorts"
+      "value": "White Sneakers"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Pink Jacket"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +30,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Romanée-Conti"
+      "value": "Bone"
     }
   ]
 }

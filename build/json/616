@@ -6,31 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Khakis"
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
-      "trait_type": "Tops",
-      "value": "Green Shirt"
+      "trait_type": "Bottom",
+      "value": "Jorts"
     },
     {
       "trait_type": "Face",
-      "value": "Sus"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "Metaverse Visor"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Yellow Backwards Cap"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +30,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Bone"
+      "value": "Banana"
     }
   ]
 }

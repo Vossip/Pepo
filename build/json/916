@@ -6,31 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Cocktail"
     },
     {
       "trait_type": "Footwear",
+      "value": "Pink Slippers"
+    },
+    {
+      "trait_type": "Tops",
       "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Little Secret"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Blue Blazer"
+      "value": "Boxers"
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "None"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",

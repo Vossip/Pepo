@@ -6,31 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cocktail"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "White Sneakers"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Tan Shorts"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Blazer"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Normal Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Mohawk Rainbow"
+      "value": "Brown Brushcut"
     },
     {
       "trait_type": "Accessory 1",

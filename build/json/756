@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Cocktail"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +14,19 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "None"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Damaged"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Miami Shades"
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Brushcut"
+      "value": "Beige Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

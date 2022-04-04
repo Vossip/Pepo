@@ -10,11 +10,11 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Lizard"
+      "value": "Trippin"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Mohawk Rainbow"
+      "value": "Green Mullet"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Bone"
+      "value": "None"
     }
   ]
 }

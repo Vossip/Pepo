@@ -6,31 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Blue Jeans"
-    },
-    {
       "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Jorts"
+    },
+    {
       "trait_type": "Face",
-      "value": "Special Friend"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Swept Purple"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +30,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "None"
     }
   ]
 }

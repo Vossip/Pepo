@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
@@ -14,15 +14,11 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +26,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Slim Blue"
+      "value": "Yellow Backwards Cap"
     },
     {
       "trait_type": "Accessory 1",

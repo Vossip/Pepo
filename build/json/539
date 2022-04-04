@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "Little Secret"
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Face",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Poop"
+      "value": "Yellow Backwards Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "None"
     }
   ]
 }

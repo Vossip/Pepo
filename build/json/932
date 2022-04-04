@@ -6,27 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
+      "trait_type": "Tops",
+      "value": "Blue Fannel"
+    },
+    {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Green Mullet"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",

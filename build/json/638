@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -14,31 +14,31 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Suit"
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Matrix Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Toque"
+      "value": "Purple Long"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Leis"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fat Stack"
+      "value": "None"
     }
   ]
 }

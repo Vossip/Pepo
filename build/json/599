@@ -6,31 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
+      "value": "Chucks"
+    },
+    {
+      "trait_type": "Tops",
       "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Blue Shirt"
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "Invisible Man Glasses"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +30,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "Romanée-Conti"
     }
   ]
 }

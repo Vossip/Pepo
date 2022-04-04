@@ -6,19 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "White Sneakers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Tan Shorts"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
+      "value": "Bandit"
     },
     {
       "trait_type": "Eyewear",
@@ -26,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Viking"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Romanée-Conti"
+      "value": "None"
     }
   ]
 }

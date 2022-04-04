@@ -6,23 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cocktail"
+      "value": "Diamond Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Normal"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Stringy"
+      "value": "Slim Blue"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Skull"
+      "value": "Fishbowl"
     }
   ]
 }

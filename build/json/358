@@ -6,27 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Jorts"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Damaged"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Ski Goggles"
+      "value": "4D Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Beige Bucked Cap"
+      "value": "McCap"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Skull"
+      "value": "None"
     }
   ]
 }

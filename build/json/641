@@ -13,24 +13,16 @@
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Old Undies"
+      "trait_type": "Tops",
+      "value": "Black Shirt"
     },
     {
-      "trait_type": "Tops",
-      "value": "Green Shirt"
+      "trait_type": "Bottom",
+      "value": "Black Pants"
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "Normal Glasses"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Brain"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",

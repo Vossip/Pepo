@@ -6,15 +6,15 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Diamond Hand"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "White Sneakers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Stringy"
+      "value": "Mohawk Blue"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Banana"
     }
   ]
 }

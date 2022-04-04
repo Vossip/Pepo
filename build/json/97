@@ -13,24 +13,16 @@
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Briefs"
+      "trait_type": "Tops",
+      "value": "Black Jacket"
     },
     {
-      "trait_type": "Tops",
-      "value": "None"
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Face",
-      "value": "Confused"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Old Tophat"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +30,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fat Stack"
+      "value": "None"
     }
   ]
 }

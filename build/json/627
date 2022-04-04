@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Golden"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Pink Jacket"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Headwear",
-      "value": "Dark Wizard"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",

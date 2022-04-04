@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
@@ -22,23 +22,23 @@
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Invisible Man Glasses"
+      "value": "4D Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "Stringy"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Leis"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Bone"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Special Friend"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Matrix Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",

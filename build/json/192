@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Cocktail"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "White Sneakers"
     },
     {
       "trait_type": "Bottom",
@@ -18,19 +18,19 @@
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Happy"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Monocle"
     },
     {
       "trait_type": "Headwear",
-      "value": "Viking"
+      "value": "Swept Purple"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Cheese"
+      "value": "None"
     }
   ]
 }

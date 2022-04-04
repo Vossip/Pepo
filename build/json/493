@@ -6,23 +6,19 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "Wiskey"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pink Slippers"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Light Wash"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Waffle Knit"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +26,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Shroom"
+      "value": "Blue Puffballs"
     },
     {
       "trait_type": "Accessory 1",

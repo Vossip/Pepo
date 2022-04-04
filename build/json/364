@@ -6,23 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Tops",
-      "value": "Gray Fannel"
+      "trait_type": "Bottom",
+      "value": "Orange Pants"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pink Headband"
     },
     {
       "trait_type": "Accessory 1",

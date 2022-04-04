@@ -6,31 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Jorts"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Little Secret"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Cry"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Boxers"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Red Shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Ski Goggles"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Green Mullet"
+      "value": "Purple Long"
     },
     {
       "trait_type": "Accessory 1",

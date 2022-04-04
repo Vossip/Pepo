@@ -6,27 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Cocktail"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
+      "trait_type": "Tops",
+      "value": "Black Jacket"
+    },
+    {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Face",
-      "value": "Sus"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Yellow Backwards Cap"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +30,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "None"
     }
   ]
 }

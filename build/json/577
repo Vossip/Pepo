@@ -6,23 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Golden"
     },
     {
       "trait_type": "Tops",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Pinstrips"
+      "trait_type": "Face",
+      "value": "Trippin"
     },
     {
-      "trait_type": "Face",
-      "value": "Paper"
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Captain"
     },
     {
       "trait_type": "Accessory 1",
@@ -30,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "TNT"
     }
   ]
 }

@@ -6,19 +6,19 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Pinstrips"
     },
     {
       "trait_type": "Tops",
-      "value": "Waffle Knit"
+      "value": "Sports Shirt"
     },
     {
       "trait_type": "Face",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory 1",

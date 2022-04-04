@@ -6,15 +6,15 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Little Secret"
     },
     {
       "trait_type": "Tops",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Orbit"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Monocle"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Slim Blue"
+      "value": "McCap"
     },
     {
       "trait_type": "Accessory 1",

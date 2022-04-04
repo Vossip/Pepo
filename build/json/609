@@ -6,31 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red Chucks"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Pink Slippers"
     },
     {
       "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Khakis"
+    },
+    {
       "trait_type": "Face",
-      "value": "Orbit"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Green Brushcut"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",

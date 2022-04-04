@@ -6,23 +6,27 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Beige Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Gray Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Black Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Metaverse Visor"
     },
     {
       "trait_type": "Headwear",

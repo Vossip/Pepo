@@ -6,31 +6,31 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Cocktail"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Beige Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "Gray Fannel"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Happy"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Orbit"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Poop"
+      "value": "Wild Hair Purple"
     },
     {
       "trait_type": "Accessory 1",

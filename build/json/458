@@ -14,15 +14,11 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Connected"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +26,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Swept Purple"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Cheese"
     }
   ]
 }

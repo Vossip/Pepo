@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Light Wash"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "Purple Jacket"
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Sus"
+      "value": "Connected"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Brown Brushcut"
+      "value": "Beige Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

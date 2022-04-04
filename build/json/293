@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
-      "value": "BTC Maxi"
+      "value": "Chad Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Special Friend"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Miami Shades"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "TNT"
+      "value": "None"
     }
   ]
 }

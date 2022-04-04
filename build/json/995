@@ -6,27 +6,35 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Cocktail"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstrips"
+      "value": "Orange Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Sus"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Normal Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dark Pigtails"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

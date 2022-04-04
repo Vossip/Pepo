@@ -6,23 +6,23 @@
   "attributes": [
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Khakis"
     },
     {
       "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Bandit"
     },
     {
       "trait_type": "Eyewear",
@@ -30,11 +30,11 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Bowlcut"
+      "value": "Yellow Toque"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Golden Chain"
     },
     {
       "trait_type": "Accessory 2",
