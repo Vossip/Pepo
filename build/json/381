@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #381",
+  "name": "PEPO DGAF #381",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/381.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/381.png",
   "edition": 381,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Lollipop"
     },
     {
       "trait_type": "Footwear",
@@ -14,31 +18,31 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Normal"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Messy Hair Blue"
+      "value": "Brown Mullet"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fishbowl"
+      "value": "None"
     }
   ]
 }

@@ -1,20 +1,24 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #439",
+  "name": "PEPO DGAF #439",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/439.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/439.png",
   "edition": 439,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstrips"
+      "value": "Brown Regus"
     },
     {
       "trait_type": "Tops",
@@ -22,15 +26,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Lizard"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Aviators"
+      "value": "Metaverse Visor"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Puffballs"
+      "value": "Swept Purple"
     },
     {
       "trait_type": "Accessory 1",

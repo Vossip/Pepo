@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #165",
+  "name": "PEPO DGAF #165",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/165.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/165.png",
   "edition": 165,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Old Undies"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Jacket"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Cry"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Matrix Glasses"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Purple Puffballs"
+      "value": "Poop"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fishbowl"
+      "value": "None"
     }
   ]
 }

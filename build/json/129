@@ -1,9 +1,13 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #129",
+  "name": "PEPO DGAF #129",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/129.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/129.png",
   "edition": 129,
   "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
     {
       "trait_type": "Body",
       "value": "Love Smoke"
@@ -18,7 +22,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
@@ -26,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Captain"
+      "value": "Brown Brushcut"
     },
     {
       "trait_type": "Accessory 1",

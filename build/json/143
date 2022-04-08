@@ -1,32 +1,40 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #143",
+  "name": "PEPO DGAF #143",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/143.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/143.png",
   "edition": 143,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Briefs"
     },
     {
-      "trait_type": "Face",
-      "value": "Sus"
-    },
-    {
-      "trait_type": "Eyewear",
+      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Cobain Glasses"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Brain"
+      "value": "Purple Long"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Banana"
     }
   ]
 }

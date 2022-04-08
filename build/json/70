@@ -1,32 +1,40 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #70",
+  "name": "PEPO DGAF #70",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/70.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/70.png",
   "edition": 70,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pink Slippers"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Blue Slacks"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Black Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Rainbow"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Invisible Man Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Headband"
+      "value": "Blue Afro"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "TNT"
+      "value": "None"
     }
   ]
 }

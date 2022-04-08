@@ -1,24 +1,28 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #122",
+  "name": "PEPO DGAF #122",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/122.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/122.png",
   "edition": 122,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Beige Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Black Shirt"
     },
     {
       "trait_type": "Face",
@@ -30,15 +34,15 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Beige Bucked Cap"
+      "value": "Brain"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "TNT"
     }
   ]
 }

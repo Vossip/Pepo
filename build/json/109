@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #109",
+  "name": "PEPO DGAF #109",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/109.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/109.png",
   "edition": 109,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Brown Regus"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "BTC Maxi"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "Yellow Backwards Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Cheese"
+      "value": "None"
     }
   ]
 }

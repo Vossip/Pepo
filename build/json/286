@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #286",
+  "name": "PEPO DGAF #286",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/286.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/286.png",
   "edition": 286,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
@@ -14,19 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Orange Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Sus"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Aviators"
+      "value": "Miami Shades Golden"
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Toque"
+      "value": "Chef"
     },
     {
       "trait_type": "Accessory 1",

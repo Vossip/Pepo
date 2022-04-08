@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #282",
+  "name": "PEPO DGAF #282",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/282.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/282.png",
   "edition": 282,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -14,11 +18,11 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Waffle Knit"
+      "value": "Blue Fannel"
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Face",

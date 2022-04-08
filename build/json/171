@@ -1,0 +1,40 @@
+{
+  "name": "PEPO DGAF #171",
+  "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/171.png",
+  "edition": 171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Love Smoke"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Beige Boots"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Black Jacket"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Orange Pants"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    }
+  ]
+}

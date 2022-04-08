@@ -1,36 +1,40 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #196",
+  "name": "PEPO DGAF #196",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/196.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/196.png",
   "edition": 196,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "White Sneakers"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
+      "value": "Jorts"
     },
     {
       "trait_type": "Tops",
-      "value": "Green Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Terrified"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "Normal Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Slim Blue"
+      "value": "Pink Toque"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Shroomy"
     }
   ]
 }

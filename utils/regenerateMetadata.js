@@ -10,7 +10,7 @@ const metadataFilePath = `${basePath}/build/json/_metadata.json`;
 const getIndividualJsonFiles = () => {
   return fs
     .readdirSync(jsonDir)
-    .filter((item) => /^[0-9]{1,6}.json/g.test(item));
+    .filter((item) => /^[0-9]{1,6}/g.test(item));
 };
 
 // Identify json files

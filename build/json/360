@@ -1,0 +1,48 @@
+{
+  "name": "PEPO DGAF #360",
+  "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/360.png",
+  "edition": 360,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Good Investment"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Trouble"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "White Sneakers"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Blue Jeans"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Beige Bucked Cap"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "Leis"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    }
+  ]
+}

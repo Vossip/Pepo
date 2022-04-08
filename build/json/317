@@ -1,16 +1,20 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #317",
+  "name": "PEPO DGAF #317",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/317.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/317.png",
   "edition": 317,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Gold"
+    },
+    {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "None"
     },
     {
       "trait_type": "Tops",
@@ -18,7 +22,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Khakis"
     },
     {
       "trait_type": "Face",
@@ -30,7 +34,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Cheese"
     }
   ]
 }

@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #395",
+  "name": "PEPO DGAF #395",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/395.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/395.png",
   "edition": 395,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Tan Shorts"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "value": "Sports Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Chef"
+      "value": "Brain"
     },
     {
       "trait_type": "Accessory 1",

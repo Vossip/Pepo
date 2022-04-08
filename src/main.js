@@ -83,8 +83,8 @@ const layersSetup = (layersOrder) => {
   const category = layersOrder[0].name;
   const layers = layersOrder.map((layerObj, index) => ({
     id: index,
-    name: layerObj.name == category ? "Background" : layerObj.name,
-    elements: getElements(`${category}/${layerObj.name == category ? "Background" : layerObj.name}/`),
+    name: layerObj.name == category ? "!vibe" : layerObj.name,
+    elements: getElements(`${category}/${layerObj.name == category ? "!vibe" : layerObj.name}/`),
     blendMode:
       layerObj["blend"] != undefined ? layerObj["blend"] : "source-over",
     opacity: layerObj["opacity"] != undefined ? layerObj["opacity"] : 1,
@@ -113,7 +113,7 @@ const drawBackground = () => {
 
 const addMetadata = (_dna, _edition) => {
   let tempMetadata = {
-    name: `PEPO DON'T GIVE A F*CK #${_edition}`,
+    name: `PEPO DGAF #${_edition}`,
     description: description,
     image: `${baseUri}/${_edition}.png`,
     edition: _edition,
@@ -125,7 +125,7 @@ const addMetadata = (_dna, _edition) => {
 
 const addAttributes = (_element) => {
   let selectedElement = _element.layer.selectedElement;
-  if(!selectedElement.path.includes("Background")) {
+  if(!selectedElement.path.includes("!vibe")) {
     attributesList.push({
       trait_type: _element.layer.name,
       value: selectedElement.name,

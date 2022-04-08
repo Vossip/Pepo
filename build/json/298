@@ -1,36 +1,40 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #298",
+  "name": "PEPO DGAF #298",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/298.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/298.png",
   "edition": 298,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Gold"
+    },
+    {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Jorts"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Briefs"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Green Shirt"
+    },
+    {
       "trait_type": "Face",
-      "value": "Sus"
+      "value": "Vampire"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Metaverse Visor"
+      "value": "Aviators"
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Puffballs"
+      "value": "Jester"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "TNT"
     }
   ]
 }

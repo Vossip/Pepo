@@ -1,24 +1,28 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #97",
+  "name": "PEPO DGAF #97",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/97.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/97.png",
   "edition": 97,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
       "trait_type": "Body",
-      "value": "Diamond Hand"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Jacket"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Old Undies"
     },
     {
       "trait_type": "Face",

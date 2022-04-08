@@ -1,28 +1,28 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #361",
+  "name": "PEPO DGAF #361",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/361.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/361.png",
   "edition": 361,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Light Wash"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Brown Brushcut"
+      "value": "Wild Hair White"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fishbowl"
+      "value": "None"
     }
   ]
 }

@@ -1,28 +1,40 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #222",
+  "name": "PEPO DGAF #222",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/222.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/222.png",
   "edition": 222,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "trait_type": "Bottom",
+      "value": "Blue Slacks"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Little Secret"
+      "trait_type": "Tops",
+      "value": "Blue Blazer"
     },
     {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Trippin"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Green Bowlcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -30,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Romanée-Conti"
+      "value": "None"
     }
   ]
 }

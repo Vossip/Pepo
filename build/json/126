@@ -1,32 +1,40 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #126",
+  "name": "PEPO DGAF #126",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/126.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/126.png",
   "edition": 126,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Pink Slippers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Gray Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Monocle"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Chef"
+      "value": "Purple Brushcut"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,20 +1,24 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #115",
+  "name": "PEPO DGAF #115",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/115.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/115.png",
   "edition": 115,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "Beige Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Brown Regus"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
@@ -22,23 +26,23 @@
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Vampire"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Pink Headband"
-    },
-    {
-      "trait_type": "Accessory 1",
       "value": "None"
     },
     {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "Silver Chain"
+    },
+    {
       "trait_type": "Accessory 2",
-      "value": "Gasoline"
+      "value": "Banana"
     }
   ]
 }

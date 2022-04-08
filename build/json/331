@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #331",
+  "name": "PEPO DGAF #331",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/331.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/331.png",
   "edition": 331,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
@@ -14,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
+      "value": "Little Secret"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Red Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Happy"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
@@ -30,11 +34,11 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Stringy"
+      "value": "Green Bowlcut"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Golden Chain"
     },
     {
       "trait_type": "Accessory 2",

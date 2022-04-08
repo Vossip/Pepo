@@ -1,36 +1,40 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #7",
+  "name": "PEPO DGAF #7",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/7.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/7.png",
   "edition": 7,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
       "trait_type": "Body",
-      "value": "Cleaver"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Beige Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstrips"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Green Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Smile"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Slim Blue"
+      "value": "Dark Wizard"
     },
     {
       "trait_type": "Accessory 1",

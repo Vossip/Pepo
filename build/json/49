@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #49",
+  "name": "PEPO DGAF #49",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/49.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/49.png",
   "edition": 49,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
@@ -14,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Jorts"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Green Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Matrix Glasses"
+      "value": "Miami Shades"
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Toque"
+      "value": "Mohawk Blue"
     },
     {
       "trait_type": "Accessory 1",

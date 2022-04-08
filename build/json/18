@@ -1,24 +1,28 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #18",
+  "name": "PEPO DGAF #18",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/18.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/18.png",
   "edition": 18,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Good Investment"
+    },
+    {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "White Sneakers"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Light Wash"
+      "value": "Pinstripe"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Black Shirt"
     },
     {
       "trait_type": "Face",
@@ -26,11 +30,11 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Sombrero"
+      "value": "Slim Blue"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Cheese"
+      "value": "Fat Stack"
     }
   ]
 }

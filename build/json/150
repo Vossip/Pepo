@@ -1,20 +1,28 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #150",
+  "name": "PEPO DGAF #150",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/150.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/150.png",
   "edition": 150,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Good Investment"
+    },
+    {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Orange Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Red Shirt"
     },
     {
       "trait_type": "Face",
@@ -26,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Bowlcut"
+      "value": "Brown Mullet"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #495",
+  "name": "PEPO DGAF #495",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/495.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/495.png",
   "edition": 495,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
@@ -18,7 +22,7 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Little Secret"
+      "value": "Sports Shirt"
     },
     {
       "trait_type": "Face",
@@ -30,15 +34,15 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Bowlcut"
+      "value": "Dark Wizard"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Golden Chain"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Fat Stack"
     }
   ]
 }

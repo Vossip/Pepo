@@ -1,36 +1,40 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #245",
+  "name": "PEPO DGAF #245",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/245.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/245.png",
   "edition": 245,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Wiskey"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Black Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Terrified"
+      "value": "Orbit"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Cobain Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Shroom"
+      "value": "Yellow Headband"
     },
     {
       "trait_type": "Accessory 1",

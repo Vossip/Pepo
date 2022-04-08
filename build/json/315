@@ -1,12 +1,16 @@
 {
-  "name": "PEPO DON'T GIVE A F*CK #315",
+  "name": "PEPO DGAF #315",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89/315.png",
+  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/315.png",
   "edition": 315,
   "attributes": [
     {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
       "trait_type": "Body",
-      "value": "Cleaver"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -14,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "White Shirt"
+      "value": "Hawaiian"
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Sus"
     },
     {
       "trait_type": "Eyewear",

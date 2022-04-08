@@ -6,14 +6,14 @@ const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const { MODE } = require(path.join(basePath, "src/blendMode.js"));
 const description =
   "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.";
-const baseUri = "ipfs://QmXN3jeNCyno7mhEeQvjzf4ypCtwidtQVRA7njEk8EyE89";
+const baseUri = "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM";
 
 const layerConfigurations = [
 
 // ------------------ Borat ------------------
 
 {
-  growEditionSizeTo: 50,
+  growEditionSizeTo: 30,
   layersOrder: [
     { name: "Borat" },
     { name: "Background" },
@@ -31,7 +31,7 @@ const layerConfigurations = [
 // ------------------ Paper ------------------
 
 {
-  growEditionSizeTo: 100,
+  growEditionSizeTo: 70,
   layersOrder: [
     { name: "Paper" },
     { name: "Background" },
@@ -48,7 +48,7 @@ const layerConfigurations = [
 // ------------------ Pepo ------------------
 
   {
-    growEditionSizeTo: 1000,
+    growEditionSizeTo: 500,
     layersOrder: [
       { name: "Pepo" },
       { name: "Background" },
