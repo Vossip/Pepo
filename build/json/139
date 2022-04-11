@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
@@ -22,19 +22,19 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "value": "Black Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Connected"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Aviators"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Slim Blue"
+      "value": "Blue Afro"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Romanée-Conti"
+      "value": "None"
     }
   ]
 }

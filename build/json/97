@@ -6,27 +6,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Old Undies"
+      "trait_type": "Face",
+      "value": "Sophisticated"
     },
     {
-      "trait_type": "Face",
-      "value": "Paper"
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shroom"
     },
     {
       "trait_type": "Accessory 1",

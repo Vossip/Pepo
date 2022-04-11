@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "WGMI"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Golden Shirt"
+      "value": "Purple Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Confused"
+      "value": "Connected"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "White Bucked Cap"
+      "value": "Wild Hair Purple"
     },
     {
       "trait_type": "Accessory 1",

@@ -6,23 +6,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "Mobster"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Gray Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Trippin"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyewear",
@@ -38,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Skull"
+      "value": "None"
     }
   ]
 }

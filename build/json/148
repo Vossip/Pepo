@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstripe"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "Hawaiian"
+      "value": "Blue Blazer"
     },
     {
       "trait_type": "Face",
-      "value": "Rainbow"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "McCap"
     },
     {
       "trait_type": "Accessory 1",

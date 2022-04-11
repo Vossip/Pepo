@@ -6,27 +6,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Tops",
-      "value": "Black Shirt"
+      "trait_type": "Bottom",
+      "value": "Boxers"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "trait_type": "Tops",
+      "value": "White Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "The Big Lebowski Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Cheese"
     }
   ]
 }

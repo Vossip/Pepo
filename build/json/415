@@ -6,35 +6,39 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Pinstripe"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Trippin"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Eye Patch"
+      "value": "Aviators"
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Toque"
+      "value": "Poop"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Leis"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

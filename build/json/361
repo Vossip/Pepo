@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
@@ -18,19 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Orange Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Terrified"
+      "value": "Bandit"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Cyclops"
     },
     {
       "trait_type": "Headwear",
-      "value": "Wild Hair White"
+      "value": "Wild Hair Purple"
     },
     {
       "trait_type": "Accessory 1",

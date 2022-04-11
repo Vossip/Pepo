@@ -6,27 +6,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Golden Slippers"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Jorts"
+      "trait_type": "Face",
+      "value": "Sus"
     },
     {
-      "trait_type": "Face",
-      "value": "Paper"
+      "trait_type": "Eyewear",
+      "value": "Noun"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Blue"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Banana"
     }
   ]
 }

@@ -6,35 +6,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Gold"
+      "value": "Suprise"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Beige Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Brown Regus"
     },
     {
       "trait_type": "Tops",
-      "value": "Gray Fannel"
+      "value": "Red Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Matrix Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Sombrero"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "None"
     }
   ]
 }

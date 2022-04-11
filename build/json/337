@@ -6,27 +6,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "White Sneakers"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Brown Regus"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "BTC Maxi"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Mullet"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",

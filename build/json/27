@@ -6,7 +6,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
@@ -22,19 +22,19 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Black Suit"
+      "value": "Blue Blazer"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Miami Shades"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Wizard"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Romanée-Conti"
+      "value": "None"
     }
   ]
 }

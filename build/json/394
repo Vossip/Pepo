@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,19 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Sports Shirt"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Orbit"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Cobain Glasses"
+      "value": "The Big Lebowski Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Puffballs"
+      "value": "Yellow Backwards Cap"
     },
     {
       "trait_type": "Accessory 1",

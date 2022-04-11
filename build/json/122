@@ -6,35 +6,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Orange"
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "Mobster"
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Shirt"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Terrified"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Sadisfied"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Matrix Glasses"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Brain"
+      "value": "Messy Hair Blue"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "TNT"
+      "value": "None"
     }
   ]
 }

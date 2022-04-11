@@ -6,27 +6,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Gold"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Jorts"
+    },
+    {
       "trait_type": "Tops",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Khakis"
+      "trait_type": "Face",
+      "value": "Special Friend"
     },
     {
-      "trait_type": "Face",
-      "value": "Paper"
+      "trait_type": "Eyewear",
+      "value": "Matrix Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pink Headband"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Cheese"
+      "value": "None"
     }
   ]
 }

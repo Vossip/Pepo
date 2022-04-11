@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Mummy"
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Shirt"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Bandit"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Ski Goggles"
+      "value": "Aviators"
     },
     {
       "trait_type": "Headwear",
-      "value": "Beanie"
+      "value": "Swept Purple"
     },
     {
       "trait_type": "Accessory 1",

@@ -10,27 +10,35 @@
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Blue Shirt"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Old Undies"
+      "value": "Khakis"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Black Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Purple Long"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

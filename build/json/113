@@ -6,18 +6,14 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Orange"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
@@ -25,16 +21,28 @@
       "value": "Blue Jeans"
     },
     {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Orbit"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Green Bowlcut"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Leis"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Fishbowl"
     }
   ]
 }

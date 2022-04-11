@@ -6,27 +6,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Tops",
-      "value": "Black Jacket"
+      "trait_type": "Bottom",
+      "value": "Gray Pants"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Black Pants"
+      "trait_type": "Tops",
+      "value": "Hawaiian"
     },
     {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Sus"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Normal Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Blue Afro"
     },
     {
       "trait_type": "Accessory 1",
@@ -34,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Shroomy"
     }
   ]
 }

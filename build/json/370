@@ -6,35 +6,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Shirt"
+      "value": "Red Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Damaged"
+      "value": "Vampire"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Ski Goggles"
     },
     {
       "trait_type": "Headwear",
-      "value": "Wild Hair Purple"
+      "value": "Green Brushcut"
     },
     {
       "trait_type": "Accessory 1",

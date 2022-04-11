@@ -6,35 +6,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Lollipop"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Brown Regus"
+      "trait_type": "Tops",
+      "value": "Black Jacket"
     },
     {
-      "trait_type": "Tops",
-      "value": "None"
+      "trait_type": "Bottom",
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Face",
-      "value": "Terrified"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Yellow Bowlcut"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",

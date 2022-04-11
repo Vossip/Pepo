@@ -6,15 +6,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Mobster"
     },
     {
       "trait_type": "Bottom",
@@ -22,19 +22,19 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Green Shirt"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Eye Patch"
+      "value": "Cyclops"
     },
     {
       "trait_type": "Headwear",
-      "value": "Poop"
+      "value": "Pink Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

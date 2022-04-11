@@ -6,19 +6,23 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red Chucks"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Khakis"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
     },
     {
       "trait_type": "Face",
@@ -30,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Swept Purple"
+      "value": "Beige Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

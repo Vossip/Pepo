@@ -6,35 +6,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Brown Regus"
+      "trait_type": "Tops",
+      "value": "Waffle Knit"
     },
     {
-      "trait_type": "Tops",
-      "value": "None"
+      "trait_type": "Bottom",
+      "value": "Light Wash"
     },
     {
       "trait_type": "Face",
-      "value": "Happy"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "None"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Cheese"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +34,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Banana"
     }
   ]
 }

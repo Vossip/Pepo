@@ -6,27 +6,35 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Tops",
-      "value": "Green Shirt"
+      "trait_type": "Bottom",
+      "value": "Light Wash"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Tan Shorts"
+      "trait_type": "Tops",
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Paper"
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "4D Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Yellow Toque"
     },
     {
       "trait_type": "Accessory 1",
