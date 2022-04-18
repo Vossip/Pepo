@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1235",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1235.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1235.png",
   "edition": 1235,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
@@ -18,19 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Briefs"
     },
     {
-      "trait_type": "Face",
-      "value": "Sus"
-    },
-    {
-      "trait_type": "Eyewear",
+      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Connected"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "The Big Lebowski Glasses"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Blue Toque"
+      "value": "Captain"
     },
     {
       "trait_type": "Accessory 1",

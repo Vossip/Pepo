@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #2849",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2849.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2849.png",
   "edition": 2849,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Diamond Hand"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Black Pants"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Black Shirt"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Damaged"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Gray Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Aviators"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Yellow Toque"
+      "value": "Messy Hair Blue"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Cheese"
     }
   ]
 }

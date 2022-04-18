@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #561",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/561.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/561.png",
   "edition": 561,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Tan Shorts"
     },
     {
       "trait_type": "Tops",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
@@ -34,15 +34,15 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Long"
+      "value": "Blue Toque"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Bone"
     }
   ]
 }

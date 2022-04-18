@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #2991",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2991.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2991.png",
   "edition": 2991,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Gold"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Blazer"
+      "value": "BTC Maxi"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Cry"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Swept Purple"
+      "value": "Slim Blue"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #591",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/591.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/591.png",
   "edition": 591,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "In Between"
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Pink Slippers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Light Wash"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Terrified"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Noun"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Messy Hair Blue"
+      "value": "Brown Brushcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Romanée-Conti"
     }
   ]
 }

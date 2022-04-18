@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1999",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1999.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1999.png",
   "edition": 1999,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Shirt"
+      "value": "Black Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Miami Shades Golden"
     },
     {
       "trait_type": "Headwear",
-      "value": "Beige Bucked Cap"
+      "value": "White Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Fishbowl"
     }
   ]
 }

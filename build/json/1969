@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1969",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1969.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1969.png",
   "edition": 1969,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Golden Shirt"
+      "value": "Black Shirt"
     },
     {
       "trait_type": "Face",
@@ -30,11 +30,11 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "Cyclops"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Mohawk Rainbow"
+      "value": "Mohawk Blue"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1924",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1924.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1924.png",
   "edition": 1924,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Brown Regus"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "Sports Shirt"
+      "value": "Red Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Special Friend"
+      "value": "Normal"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Aviators"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Toque"
+      "value": "Yellow Backwards Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Gasoline"
+      "value": "None"
     }
   ]
 }

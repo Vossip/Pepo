@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #2632",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2632.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2632.png",
   "edition": 2632,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
-      "value": "Sports Shirt"
+      "value": "Hawaiian"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Backwards Cap"
+      "value": "Yellow Bowlcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "None"
     }
   ]
 }

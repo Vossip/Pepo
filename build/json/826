@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #826",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/826.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/826.png",
   "edition": 826,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -18,31 +18,31 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Sus"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "Designer Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Stringy"
+      "value": "Blue Toque"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Romanée-Conti"
+      "value": "Gasoline"
     }
   ]
 }

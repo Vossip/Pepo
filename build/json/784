@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #784",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/784.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/784.png",
   "edition": 784,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Eternal"
     },
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Face",
@@ -30,19 +30,19 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "Designer Glasses"
+      "value": "Cyclops"
     },
     {
       "trait_type": "Headwear",
-      "value": "Halo"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Romanée-Conti"
+      "value": "None"
     }
   ]
 }

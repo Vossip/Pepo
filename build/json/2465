@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #2465",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2465.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2465.png",
   "edition": 2465,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Old Undies"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Little Secret"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Sports Shirt"
+    },
+    {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Normal"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Sombrero"
+      "value": "Poop"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "None"
     }
   ]
 }

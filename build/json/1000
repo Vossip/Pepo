@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #1000",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1000.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1000.png",
   "edition": 1000,
   "attributes": [
     {
@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Tan Shorts"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
+      "value": "Orbit"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Pink Toque"
+      "value": "Blue Afro"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fishbowl"
+      "value": "Fat Stack"
     }
   ]
 }

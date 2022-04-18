@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #309",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/309.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/309.png",
   "edition": 309,
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Jorts"
     },
     {
       "trait_type": "Tops",
-      "value": "Gray Fannel"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Bandit"
     },
     {
       "trait_type": "Eyewear",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Bone"
     }
   ]
 }

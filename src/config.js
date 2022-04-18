@@ -6,7 +6,7 @@ const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const { MODE } = require(path.join(basePath, "src/blendMode.js"));
 const description =
   "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.";
-const baseUri = "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM";
+const baseUri = "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe";
 
 const layerConfigurations = [
 
@@ -45,6 +45,33 @@ const layerConfigurations = [
   ]
 },
 
+// ------------------ The Eye ------------------
+
+{
+  growEditionSizeTo: 90,
+  layersOrder: [
+    { name: "The Eye" },
+    { name: "Background" },
+    { name: "Body"},
+    { name: "Footwear"},
+    { name: "Headwear"}
+  ]
+},
+
+// ------------------ Smiley ------------------
+
+{
+  growEditionSizeTo: 100,
+  layersOrder: [
+    { name: "Smiley" },
+    { name: "Background" },
+    { name: "Body"},
+    { name: "Footwear"},
+    { name: "Eyewear"},
+    { name: "Headwear"}
+  ]
+},
+
 // ------------------ Pepo ------------------
 
   {
@@ -65,7 +92,7 @@ const layerConfigurations = [
   },
 ];
 
-const shuffleLayerConfigurations = true;
+const shuffleLayerConfigurations = false;
 
 const debugLogs = false;
 

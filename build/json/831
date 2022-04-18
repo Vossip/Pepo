@@ -1,24 +1,24 @@
 {
   "name": "PEPO DGAF #831",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/831.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/831.png",
   "edition": 831,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Sus"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Short Feathered Hat"
+      "value": "Brown Mullet"
     },
     {
       "trait_type": "Accessory 1",

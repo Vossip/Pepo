@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1803",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1803.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1803.png",
   "edition": 1803,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Shirt"
+      "value": "Blue Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Wild Hair Purple"
+      "value": "Messy Hair Blue"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

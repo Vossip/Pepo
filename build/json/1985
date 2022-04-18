@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #1985",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1985.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1985.png",
   "edition": 1985,
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "value": "Brown Regus"
     },
     {
       "trait_type": "Tops",
-      "value": "Green Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Face",
@@ -30,11 +30,11 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "Matrix Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Shroom"
     },
     {
       "trait_type": "Accessory 1",

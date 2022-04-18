@@ -1,24 +1,24 @@
 {
   "name": "PEPO DGAF #1093",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1093.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1093.png",
   "edition": 1093,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Orange"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstripe"
+      "value": "Tan Shorts"
     },
     {
       "trait_type": "Tops",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Vampire"
+      "value": "Trippin"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Puffballs"
+      "value": "Shroom"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "TNT"
     }
   ]
 }

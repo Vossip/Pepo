@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #2023",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2023.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2023.png",
   "edition": 2023,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Jorts"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Pink Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Vampire"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "McCap"
+      "value": "Blue Toque"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Romanée-Conti"
+      "value": "TNT"
     }
   ]
 }

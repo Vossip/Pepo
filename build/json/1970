@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #1970",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1970.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1970.png",
   "edition": 1970,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Good Investment"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Orange Pants"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Briefs"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Black Shirt"
+    },
+    {
       "trait_type": "Face",
-      "value": "Lizard"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Messy Hair Blue"
+      "value": "Wild Hair White"
     },
     {
       "trait_type": "Accessory 1",

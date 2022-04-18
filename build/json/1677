@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #1677",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1677.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1677.png",
   "edition": 1677,
   "attributes": [
     {
@@ -10,31 +10,31 @@
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Red Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Vampire"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Headwear",
-      "value": "Wild Hair White"
+      "value": "Blue Toque"
     },
     {
       "trait_type": "Accessory 1",

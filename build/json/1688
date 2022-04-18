@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1688",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1688.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1688.png",
   "edition": 1688,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Gold"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Wiskey"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Old Undies"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Suit"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Damaged"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
@@ -34,15 +34,15 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Pink Headband"
+      "value": "Mohawk Rainbow"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Golden Chain"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Gasoline"
+      "value": "Romanée-Conti"
     }
   ]
 }

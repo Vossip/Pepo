@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #2731",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2731.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2731.png",
   "edition": 2731,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "value": "Black Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Trippin"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Green Mullet"
     },
     {
       "trait_type": "Accessory 1",

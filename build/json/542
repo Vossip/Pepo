@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #542",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/542.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/542.png",
   "edition": 542,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Orange"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Wiskey"
     },
     {
       "trait_type": "Footwear",
@@ -18,31 +18,31 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Damaged"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Ski Goggles"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "Dark Wizard"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Leis"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "TNT"
+      "value": "None"
     }
   ]
 }

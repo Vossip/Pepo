@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #3266",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/3266.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/3266.png",
   "edition": 3266,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Black Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Invisible Man Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Afro"
+      "value": "Captain"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Cheese"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #769",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/769.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/769.png",
   "edition": 769,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "In Between"
     },
     {
       "trait_type": "Body",
-      "value": "Cleaver"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Pinstripe"
     },
     {
       "trait_type": "Tops",
-      "value": "Pink Jacket"
+      "value": "Green Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Eye Patch"
+      "value": "Matrix Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "Stringy"
     },
     {
       "trait_type": "Accessory 1",

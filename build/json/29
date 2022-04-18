@@ -1,40 +1,36 @@
 {
   "name": "PEPO DGAF #29",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/29.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/29.png",
   "edition": 29,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Lollipop"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Tan Shorts"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Green Shirt"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Happy"
+      "value": "Normal"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
+      "value": "Cobain Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Shroom"
+      "value": "Beige Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Fishbowl"
     }
   ]
 }

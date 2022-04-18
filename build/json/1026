@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #1026",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1026.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1026.png",
   "edition": 1026,
   "attributes": [
     {
@@ -10,27 +10,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Blazer"
+      "value": "Hawaiian"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Cobain Glasses"
     },
     {
       "trait_type": "Headwear",

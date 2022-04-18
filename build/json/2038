@@ -1,20 +1,20 @@
 {
   "name": "PEPO DGAF #2038",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2038.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2038.png",
   "edition": 2038,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Good Investment"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
@@ -22,19 +22,19 @@
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Blazer"
     },
     {
       "trait_type": "Face",
-      "value": "Damaged"
+      "value": "Evil"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Normal Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Long"
+      "value": "Pink Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

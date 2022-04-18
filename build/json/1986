@@ -1,20 +1,20 @@
 {
   "name": "PEPO DGAF #1986",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1986.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1986.png",
   "edition": 1986,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
@@ -26,19 +26,19 @@
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Aviators"
+      "value": "The Big Lebowski Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Wizard"
+      "value": "Beige Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

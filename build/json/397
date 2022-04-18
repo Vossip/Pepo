@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #397",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/397.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/397.png",
   "edition": 397,
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
@@ -34,15 +34,15 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Shroom"
-    },
-    {
-      "trait_type": "Accessory 1",
       "value": "None"
     },
     {
+      "trait_type": "Accessory 1",
+      "value": "Golden Chain"
+    },
+    {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "Gasoline"
     }
   ]
 }

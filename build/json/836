@@ -1,12 +1,12 @@
 {
   "name": "PEPO DGAF #836",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/836.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/836.png",
   "edition": 836,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "White Sneakers"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Brown Regus"
     },
     {
       "trait_type": "Tops",
@@ -26,15 +26,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Designer Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Shroom"
+      "value": "Old Tophat"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #747",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/747.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/747.png",
   "edition": 747,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Jorts"
     },
     {
       "trait_type": "Tops",
-      "value": "Green Shirt"
+      "value": "Purple Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Brushcut"
+      "value": "Pink Headband"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "TNT"
+      "value": "None"
     }
   ]
 }

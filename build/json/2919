@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #2919",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2919.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2919.png",
   "edition": 2919,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "White Sneakers"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Black Pants"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Tan Shorts"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Purple Jacket"
+    },
+    {
       "trait_type": "Face",
-      "value": "Sadisfied"
+      "value": "Evil"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Noun"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Wild Hair White"
+      "value": "McCap"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #8",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/8.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/8.png",
   "edition": 8,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,11 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Blue Blazer"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Scream"
+      "value": "Undead"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Headband"
+      "value": "Old Tophat"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "Bone"
     }
   ]
 }

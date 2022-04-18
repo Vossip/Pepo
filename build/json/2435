@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #2435",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2435.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2435.png",
   "edition": 2435,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red Chucks"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Briefs"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Little Secret"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Green Shirt"
+    },
+    {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "White Bucked Cap"
+      "value": "Beige Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Fat Stack"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #1195",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1195.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1195.png",
   "edition": 1195,
   "attributes": [
     {
@@ -14,27 +14,27 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Waffle Knit"
     },
     {
       "trait_type": "Face",
-      "value": "Confused"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Ski Goggles"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "White Bucked Cap"
+      "value": "Blue Puffballs"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Bone"
+      "value": "None"
     }
   ]
 }

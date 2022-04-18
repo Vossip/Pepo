@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #141",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/141.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/141.png",
   "edition": 141,
   "attributes": [
     {
@@ -10,23 +10,23 @@
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Mobster"
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "Purple Jacket"
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Rainbow"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Mohawk Rainbow"
+      "value": "White Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

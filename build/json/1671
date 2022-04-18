@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1671",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1671.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1671.png",
   "edition": 1671,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Old Undies"
     },
     {
       "trait_type": "Tops",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Chef"
+      "value": "Brown Brushcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Gasoline"
+      "value": "None"
     }
   ]
 }

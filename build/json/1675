@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1675",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1675.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1675.png",
   "edition": 1675,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "New Punk Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Little Secret"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
@@ -26,15 +26,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
-      "value": "4D Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "Brain"
     },
     {
       "trait_type": "Accessory 1",

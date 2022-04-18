@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #1489",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1489.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1489.png",
   "edition": 1489,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Ancient"
     },
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Suit"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Connected"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "The Big Lebowski Glasses"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Purple Puffballs"
+      "value": "Green Brushcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Shroomy"
+      "value": "None"
     }
   ]
 }

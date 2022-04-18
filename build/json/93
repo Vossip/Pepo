@@ -1,32 +1,20 @@
 {
   "name": "PEPO DGAF #93",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/93.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/93.png",
   "edition": 93,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Smile"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Smiley 2"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Gray Pants"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Purple Jacket"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Confused"
+      "value": "None"
     },
     {
       "trait_type": "Eyewear",
@@ -34,15 +22,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Brushcut"
-    },
-    {
-      "trait_type": "Accessory 1",
-      "value": "None"
-    },
-    {
-      "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Slim Blue"
     }
   ]
 }

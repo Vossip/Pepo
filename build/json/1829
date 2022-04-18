@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1829",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1829.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1829.png",
   "edition": 1829,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Good Investment"
+      "value": "Ancient"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Khakis"
     },
     {
       "trait_type": "Tops",
-      "value": "Hawaiian"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Monocle"
     },
     {
       "trait_type": "Headwear",
-      "value": "Halo"
+      "value": "Brain"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "None"
     }
   ]
 }

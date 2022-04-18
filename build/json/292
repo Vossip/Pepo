@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #292",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/292.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/292.png",
   "edition": 292,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstripe"
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Shirt"
+      "value": "Pink Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "The Big Lebowski Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Puffballs"
+      "value": "McCap"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "None"
     }
   ]
 }

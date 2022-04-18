@@ -1,20 +1,20 @@
 {
   "name": "PEPO DGAF #1905",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1905.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1905.png",
   "edition": 1905,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
@@ -22,27 +22,27 @@
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Purple Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "The Big Lebowski Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Jester"
+      "value": "Slim Blue"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Romanée-Conti"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #20",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/20.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/20.png",
   "edition": 20,
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,11 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Golden Pants"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Gray Fannel"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Smile"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Toque"
+      "value": "Messy Hair Blue"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Banana"
     }
   ]
 }

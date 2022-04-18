@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1586",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1586.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1586.png",
   "edition": 1586,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Green Shirt"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Vampire"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Metaverse Visor"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Green Mullet"
+      "value": "Wizard"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Banana"
     }
   ]
 }

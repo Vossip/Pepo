@@ -1,20 +1,20 @@
 {
   "name": "PEPO DGAF #1126",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1126.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1126.png",
   "edition": 1126,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "Pink Slippers"
     },
     {
       "trait_type": "Bottom",
@@ -30,15 +30,15 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Metaverse Visor"
     },
     {
       "trait_type": "Headwear",
-      "value": "Poop"
+      "value": "Purple Puffballs"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Golden Chain"
     },
     {
       "trait_type": "Accessory 2",

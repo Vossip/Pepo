@@ -1,20 +1,20 @@
 {
   "name": "PEPO DGAF #1914",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1914.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1914.png",
   "edition": 1914,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
@@ -26,15 +26,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Smile"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Invisible Man Glasses"
+      "value": "Designer Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Toque"
+      "value": "Blue Afro"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Fishbowl"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #684",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/684.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/684.png",
   "edition": 684,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Cleaver"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Sports Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Confused"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Aviators"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Messy Hair Blue"
+      "value": "Slim Blue"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Fat Stack"
     }
   ]
 }

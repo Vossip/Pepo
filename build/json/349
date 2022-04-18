@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #349",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/349.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/349.png",
   "edition": 349,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Black Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Undead"
+      "value": "Connected"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Invisible Man Glasses"
+      "value": "Aviators"
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Toque"
+      "value": "Yellow Bowlcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Fishbowl"
     }
   ]
 }

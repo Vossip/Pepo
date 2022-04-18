@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #1301",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1301.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1301.png",
   "edition": 1301,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Cleaver"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Light Wash"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Pink Jacket"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Special Friend"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Khakis"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Blue Fannel"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sus"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Invisible Man Glasses"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Wizard"
+      "value": "Messy Hair Blue"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fishbowl"
+      "value": "None"
     }
   ]
 }

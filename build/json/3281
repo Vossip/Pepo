@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #3281",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/3281.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/3281.png",
   "edition": 3281,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Golden Pants"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Little Secret"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Pink Jacket"
+    },
+    {
       "trait_type": "Face",
-      "value": "Special Friend"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Pink Long"
+      "value": "Poop"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1858",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1858.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1858.png",
   "edition": 1858,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Orange"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -22,11 +22,11 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Purple Jacket"
+      "value": "Waffle Knit"
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
+      "value": "Normal"
     },
     {
       "trait_type": "Eyewear",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "None"
     }
   ]
 }

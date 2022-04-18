@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #1610",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1610.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1610.png",
   "edition": 1610,
   "attributes": [
     {
@@ -10,31 +10,31 @@
     },
     {
       "trait_type": "Body",
-      "value": "Cleaver"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red Chucks"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Brown Regus"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Little Secret"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Green Shirt"
+    },
+    {
       "trait_type": "Face",
-      "value": "Rainbow"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "Invisible Man Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Brushcut"
+      "value": "Dark Pigtails"
     },
     {
       "trait_type": "Accessory 1",

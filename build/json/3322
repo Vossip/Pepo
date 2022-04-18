@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #3322",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/3322.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/3322.png",
   "edition": 3322,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "No Boundries"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Terrified"
+      "value": "Orbit"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Poop"
+      "value": "Blue Afro"
     },
     {
       "trait_type": "Accessory 1",

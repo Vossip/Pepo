@@ -1,20 +1,20 @@
 {
   "name": "PEPO DGAF #1537",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1537.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1537.png",
   "edition": 1537,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Mobster"
     },
     {
       "trait_type": "Bottom",
@@ -22,19 +22,19 @@
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Black Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "White Bucked Cap"
+      "value": "Pink Headband"
     },
     {
       "trait_type": "Accessory 1",

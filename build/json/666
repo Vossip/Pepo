@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #666",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/666.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/666.png",
   "edition": 666,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
+      "value": "Brown Regus"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Sports Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Cobain Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Toque"
+      "value": "White Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

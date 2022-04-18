@@ -1,32 +1,28 @@
 {
   "name": "PEPO DGAF #5",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/5.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/5.png",
   "edition": 5,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "No Boundries"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "None"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Confused"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
@@ -34,11 +30,11 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Messy Hair Blue"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Leis"
     },
     {
       "trait_type": "Accessory 2",

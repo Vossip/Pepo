@@ -1,24 +1,24 @@
 {
   "name": "PEPO DGAF #304",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/304.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/304.png",
   "edition": 304,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Good Investment"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Mullet"
+      "value": "McCap"
     },
     {
       "trait_type": "Accessory 1",

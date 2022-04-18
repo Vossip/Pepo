@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #482",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/482.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/482.png",
   "edition": 482,
   "attributes": [
     {
@@ -10,31 +10,31 @@
     },
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red Chucks"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Orange Pants"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Gray Fannel"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Sophisticated"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Briefs"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Invisible Man Glasses"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Beige Bucked Cap"
+      "value": "Chef"
     },
     {
       "trait_type": "Accessory 1",

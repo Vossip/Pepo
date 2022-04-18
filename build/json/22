@@ -1,12 +1,12 @@
 {
   "name": "PEPO DGAF #22",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/22.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/22.png",
   "edition": 22,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Orange"
     },
     {
       "trait_type": "Body",
@@ -14,19 +14,15 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "Mobster"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstripe"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Sus"
+      "value": "Bandit"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Mohawk Blue"
+      "value": "White Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

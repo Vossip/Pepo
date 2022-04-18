@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1593",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1593.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1593.png",
   "edition": 1593,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
@@ -22,19 +22,19 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Golden Shirt"
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Designer Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Puffballs"
+      "value": "Blue Toque"
     },
     {
       "trait_type": "Accessory 1",

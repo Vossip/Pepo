@@ -1,24 +1,24 @@
 {
   "name": "PEPO DGAF #435",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/435.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/435.png",
   "edition": 435,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Little Secret"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
@@ -26,11 +26,11 @@
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Terrified"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Ski Goggles"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Headwear",

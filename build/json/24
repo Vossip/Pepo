@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #24",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/24.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/24.png",
   "edition": 24,
   "attributes": [
     {
@@ -18,15 +18,11 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Green Shirt"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +30,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Cap"
+      "value": "Jester"
     },
     {
       "trait_type": "Accessory 1",

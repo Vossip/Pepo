@@ -1,24 +1,24 @@
 {
   "name": "PEPO DGAF #189",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/189.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/189.png",
   "edition": 189,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pink Slippers"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
@@ -26,15 +26,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Aviators"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Blue Afro"
+      "value": "Swept Purple"
     },
     {
       "trait_type": "Accessory 1",

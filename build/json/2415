@@ -1,36 +1,40 @@
 {
   "name": "PEPO DGAF #2415",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2415.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2415.png",
   "edition": 2415,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "No Boundries"
+      "value": "Orange"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Borat"
+      "value": "Black Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Black Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Evil"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Ski Goggles"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Long"
+      "value": "Mohawk Blue"
     },
     {
       "trait_type": "Accessory 1",

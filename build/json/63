@@ -1,40 +1,32 @@
 {
   "name": "PEPO DGAF #63",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/63.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/63.png",
   "edition": 63,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
-      "value": "Mobster"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Orange Pants"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Tops",
+      "value": "Red Shirt"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Little Secret"
+    },
+    {
       "trait_type": "Face",
-      "value": "Special Friend"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Brown Brushcut"
+      "value": "Paper"
     },
     {
       "trait_type": "Accessory 1",

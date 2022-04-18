@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #13",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/13.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/13.png",
   "edition": 13,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,19 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "None"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Matrix Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Bowlcut"
+      "value": "Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +38,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "TNT"
+      "value": "Skull"
     }
   ]
 }

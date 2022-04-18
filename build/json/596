@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #596",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/596.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/596.png",
   "edition": 596,
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
@@ -18,27 +18,27 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Light Wash"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Face",
-      "value": "Trippin"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
+      "value": "Designer Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Long"
+      "value": "Slim Blue"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

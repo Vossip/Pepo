@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #370",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/370.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/370.png",
   "edition": 370,
   "attributes": [
     {
@@ -10,27 +10,27 @@
     },
     {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Sports Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Vampire"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Ski Goggles"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",

@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #573",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/573.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/573.png",
   "edition": 573,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Omnichain"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Brown Brushcut"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",

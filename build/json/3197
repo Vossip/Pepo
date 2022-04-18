@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #3197",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/3197.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/3197.png",
   "edition": 3197,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Gold"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pink Slippers"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Pinstripe"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Green Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Normal"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Cyclops"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Beige Bucked Cap"
+      "value": "Brown Mullet"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Gasoline"
+      "value": "None"
     }
   ]
 }

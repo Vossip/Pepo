@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #1952",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1952.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1952.png",
   "edition": 1952,
   "attributes": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Gray Pants"
+      "value": "Khakis"
     },
     {
       "trait_type": "Tops",
@@ -26,19 +26,19 @@
     },
     {
       "trait_type": "Face",
-      "value": "Scream"
+      "value": "Evil"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Matrix Glasses"
+      "value": "Ski Goggles"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Brushcut"
+      "value": "Wizard"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Leis"
     },
     {
       "trait_type": "Accessory 2",

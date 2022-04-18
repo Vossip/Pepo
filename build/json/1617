@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #1617",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1617.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1617.png",
   "edition": 1617,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "Pink Slippers"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Pinstripe"
     },
     {
       "trait_type": "Tops",
-      "value": "Purple Jacket"
+      "value": "Sports Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Cry"
     },
     {
       "trait_type": "Eyewear",
@@ -34,15 +34,15 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Puffballs"
-    },
-    {
-      "trait_type": "Accessory 1",
       "value": "None"
     },
     {
+      "trait_type": "Accessory 1",
+      "value": "Silver Chain"
+    },
+    {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "None"
     }
   ]
 }

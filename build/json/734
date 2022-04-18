@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #734",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/734.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/734.png",
   "edition": 734,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "White Sneakers"
-    },
-    {
-      "trait_type": "Bottom",
-      "value": "Little Secret"
-    },
-    {
-      "trait_type": "Tops",
       "value": "None"
     },
     {
+      "trait_type": "Bottom",
+      "value": "Gray Pants"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Blue Shirt"
+    },
+    {
       "trait_type": "Face",
-      "value": "Special Friend"
+      "value": "Happy"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Ski Goggles"
+      "value": "The Big Lebowski Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Dark Wizard"
+      "value": "Yellow Toque"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Bone"
     }
   ]
 }

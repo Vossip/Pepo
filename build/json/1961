@@ -1,24 +1,24 @@
 {
   "name": "PEPO DGAF #1961",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1961.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1961.png",
   "edition": 1961,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Orange"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Trouble"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Pink Slippers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Jorts"
     },
     {
       "trait_type": "Tops",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Backwards Cap"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",

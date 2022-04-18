@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #2024",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2024.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2024.png",
   "edition": 2024,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "Little Secret"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Damaged"
+      "value": "Evil"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "McCap"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Banana"
     }
   ]
 }

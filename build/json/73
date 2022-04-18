@@ -1,48 +1,24 @@
 {
   "name": "PEPO DGAF #73",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/73.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/73.png",
   "edition": 73,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "On Chain"
     },
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "The Eye 2"
     },
     {
       "trait_type": "Footwear",
       "value": "None"
     },
     {
-      "trait_type": "Bottom",
-      "value": "Brown Regus"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Black Jacket"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Sadisfied"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "Aviators"
-    },
-    {
       "trait_type": "Headwear",
-      "value": "Old Tophat"
-    },
-    {
-      "trait_type": "Accessory 1",
-      "value": "None"
-    },
-    {
-      "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Shroom"
     }
   ]
 }

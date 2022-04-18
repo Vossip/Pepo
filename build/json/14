@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #14",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/14.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/14.png",
   "edition": 14,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -18,31 +18,27 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Boxers"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Sports Shirt"
+      "value": "Borat"
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Wizard"
-    },
-    {
-      "trait_type": "Accessory 1",
       "value": "None"
     },
     {
+      "trait_type": "Headwear",
+      "value": "Pink Headband"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "Silver Chain"
+    },
+    {
       "trait_type": "Accessory 2",
-      "value": "Fat Stack"
+      "value": "None"
     }
   ]
 }

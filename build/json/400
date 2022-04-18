@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #400",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/400.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/400.png",
   "edition": 400,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Golden Shirt"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Bandit"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Ski Goggles"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Blue Toque"
+      "value": "Beige Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #852",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/852.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/852.png",
   "edition": 852,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Matrix Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "White Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Romanée-Conti"
     }
   ]
 }

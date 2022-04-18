@@ -1,12 +1,12 @@
 {
   "name": "PEPO DGAF #1785",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1785.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1785.png",
   "edition": 1785,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Orange"
     },
     {
       "trait_type": "Body",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Light Wash"
+      "value": "Pinstripe"
     },
     {
       "trait_type": "Tops",
@@ -26,19 +26,19 @@
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Metaverse Visor"
+      "value": "Aviators"
     },
     {
       "trait_type": "Headwear",
-      "value": "Purple Puffballs"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Leis"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

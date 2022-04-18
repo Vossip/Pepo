@@ -1,20 +1,20 @@
 {
   "name": "PEPO DGAF #705",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/705.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/705.png",
   "edition": 705,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "On Chain"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Mobster"
     },
     {
       "trait_type": "Bottom",
@@ -22,27 +22,27 @@
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Hawaiian"
     },
     {
       "trait_type": "Face",
-      "value": "Scream"
+      "value": "Evil"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Eye Patch"
     },
     {
       "trait_type": "Headwear",
-      "value": "Pink Bucked Cap"
+      "value": "Orange Hair"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Bone"
     }
   ]
 }

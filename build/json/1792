@@ -1,48 +1,48 @@
 {
   "name": "PEPO DGAF #1792",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1792.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1792.png",
   "edition": 1792,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Eternal"
     },
     {
       "trait_type": "Body",
-      "value": "Cleaver"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
-      "value": "BTC Maxi"
+      "value": "Green Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Aviators"
+      "value": "Ski Goggles"
     },
     {
       "trait_type": "Headwear",
-      "value": "Beige Bucked Cap"
+      "value": "Yellow Backwards Cap"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "TNT"
+      "value": "None"
     }
   ]
 }

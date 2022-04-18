@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #864",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/864.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/864.png",
   "edition": 864,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Gold"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Golden Slippers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Black Pants"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "BTC Maxi"
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Happy"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Old Tophat"
+      "value": "Shroom"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "TNT"
     }
   ]
 }

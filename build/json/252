@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #252",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/252.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/252.png",
   "edition": 252,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Little Secret"
+      "value": "None"
     },
     {
       "trait_type": "Face",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "Skull"
     }
   ]
 }

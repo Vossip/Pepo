@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #1980",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1980.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1980.png",
   "edition": 1980,
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Blue Jeans"
     },
     {
       "trait_type": "Tops",
-      "value": "Hawaiian"
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Designer Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Mullet"
+      "value": "Swept Purple"
     },
     {
       "trait_type": "Accessory 1",

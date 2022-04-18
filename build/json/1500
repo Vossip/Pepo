@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1500",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1500.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1500.png",
   "edition": 1500,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
@@ -18,31 +18,31 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Sadisfied"
+      "value": "Cry"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Metaverse Visor"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Swept Purple"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "None"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #445",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/445.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/445.png",
   "edition": 445,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Leis"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Tennis Racket"
+      "value": "Banana"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1127",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1127.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1127.png",
   "edition": 1127,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Eternal"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Lollipop"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Tan Shorts"
+      "value": "Blue Slacks"
     },
     {
       "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Golden Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Pink Toque"
+      "value": "Chef"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #543",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/543.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/543.png",
   "edition": 543,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
-      "value": "Old Undies"
+      "value": "Brown Regus"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Suit"
+      "value": "Gray Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Connected"
     },
     {
       "trait_type": "Eyewear",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Toque"
+      "value": "Yellow Backwards Cap"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

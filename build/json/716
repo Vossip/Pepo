@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #716",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/716.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/716.png",
   "edition": 716,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mummy"
+      "value": "Omnichain"
     },
     {
       "trait_type": "Body",
-      "value": "Smoker"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
-      "value": "Mobster"
+      "value": "White Sneakers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Wizard"
+      "value": "Blue Afro"
     },
     {
       "trait_type": "Accessory 1",

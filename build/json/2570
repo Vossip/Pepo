@@ -1,12 +1,12 @@
 {
   "name": "PEPO DGAF #2570",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2570.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2570.png",
   "edition": 2570,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Gold"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
@@ -14,27 +14,27 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "Golden Slippers"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Little Secret"
+      "value": "Black Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Gray Fannel"
+      "value": "Red Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Connected"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
+      "value": "Matrix Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Dark Wizard"
+      "value": "Mohawk Rainbow"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,40 +1,40 @@
 {
   "name": "PEPO DGAF #1852",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1852.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1852.png",
   "edition": 1852,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "In Between"
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Green Shirt"
     },
     {
       "trait_type": "Face",
-      "value": "Trippin"
+      "value": "Normal"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Ski Goggles"
     },
     {
       "trait_type": "Headwear",
-      "value": "Short Feathered Hat"
+      "value": "Green Bowlcut"
     },
     {
       "trait_type": "Accessory 1",

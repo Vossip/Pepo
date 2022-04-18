@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #2486",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2486.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2486.png",
   "edition": 2486,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "On Chain"
     },
     {
       "trait_type": "Body",
-      "value": "Wiskey"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Brown Regus"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "value": "Waffle Knit"
     },
     {
       "trait_type": "Face",
-      "value": "Special Friend"
+      "value": "Damaged"
     },
     {
       "trait_type": "Eyewear",
@@ -34,15 +34,15 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Mullet"
+      "value": "Purple Long"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "None"
+      "value": "Leis"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Gasoline"
+      "value": "Tennis Racket"
     }
   ]
 }

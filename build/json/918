@@ -1,12 +1,12 @@
 {
   "name": "PEPO DGAF #918",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/918.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/918.png",
   "edition": 918,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mummy"
+      "value": "Autoglyph"
     },
     {
       "trait_type": "Body",
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "Beige Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Old Undies"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
@@ -26,11 +26,11 @@
     },
     {
       "trait_type": "Face",
-      "value": "Sus"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
+      "value": "Monocle"
     },
     {
       "trait_type": "Headwear",

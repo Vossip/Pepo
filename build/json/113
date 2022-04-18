@@ -1,24 +1,24 @@
 {
   "name": "PEPO DGAF #113",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/113.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/113.png",
   "edition": 113,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Gold"
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Wata"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Chucks"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
@@ -26,23 +26,23 @@
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Aviators"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Green Bowlcut"
+      "value": "Brown Brushcut"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Leis"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fishbowl"
+      "value": "Bone"
     }
   ]
 }

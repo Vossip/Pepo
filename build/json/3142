@@ -1,48 +1,48 @@
 {
   "name": "PEPO DGAF #3142",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/3142.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/3142.png",
   "edition": 3142,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "New Punk Blue"
+      "value": "Purple"
     },
     {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "Mobster"
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Boxers"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Black Jacket"
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Special Friend"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Monocle"
-    },
-    {
-      "trait_type": "Headwear",
       "value": "None"
     },
     {
+      "trait_type": "Headwear",
+      "value": "Blue Toque"
+    },
+    {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Gasoline"
+      "value": "None"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "PEPO DGAF #1978",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1978.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1978.png",
   "edition": 1978,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Jeans"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "Black Suit"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Rainbow"
-    },
-    {
-      "trait_type": "Eyewear",
       "value": "None"
     },
     {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Patch"
+    },
+    {
       "trait_type": "Headwear",
-      "value": "Purple Long"
+      "value": "Pink Toque"
     },
     {
       "trait_type": "Accessory 1",

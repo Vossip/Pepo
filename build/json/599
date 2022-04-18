@@ -1,12 +1,12 @@
 {
   "name": "PEPO DGAF #599",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/599.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/599.png",
   "edition": 599,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "NGMI"
+      "value": "Autoglyph"
     },
     {
       "trait_type": "Body",
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "White Sneakers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Jorts"
+      "value": "Briefs"
     },
     {
       "trait_type": "Tops",
@@ -26,15 +26,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Damaged"
+      "value": "Connected"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Eye Patch"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Poop"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "None"
+      "value": "TNT"
     }
   ]
 }

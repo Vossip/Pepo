@@ -1,12 +1,12 @@
 {
   "name": "PEPO DGAF #3199",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/3199.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/3199.png",
   "edition": 3199,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Eternal"
     },
     {
       "trait_type": "Body",
@@ -14,27 +14,27 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Mobster"
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Waffle Knit"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Bandit"
+      "value": "Connected"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Monocle"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Wizard"
+      "value": "Wild Hair Purple"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,7 +1,7 @@
 {
   "name": "PEPO DGAF #2014",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/2014.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/2014.png",
   "edition": 2014,
   "attributes": [
     {
@@ -10,31 +10,31 @@
     },
     {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Slides"
     },
     {
       "trait_type": "Bottom",
-      "value": "Khakis"
+      "value": "Light Wash"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Fannel"
+      "value": "Waffle Knit"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Disappointed"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "Normal Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Yellow Backwards Cap"
+      "value": "White Bucked Cap"
     },
     {
       "trait_type": "Accessory 1",

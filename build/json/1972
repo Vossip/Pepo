@@ -1,32 +1,32 @@
 {
   "name": "PEPO DGAF #1972",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/1972.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/1972.png",
   "edition": 1972,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
-      "value": "Chucks"
+      "value": "White Sneakers"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Blazer"
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Orbit"
+      "value": "Cry"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Mohawk Rainbow"
     },
     {
       "trait_type": "Accessory 1",

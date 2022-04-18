@@ -1,12 +1,12 @@
 {
   "name": "PEPO DGAF #776",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/776.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/776.png",
   "edition": 776,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Suprise"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
@@ -22,11 +22,11 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Red Shirt"
+      "value": "Little Secret"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Brown Brushcut"
+      "value": "Yellow Toque"
     },
     {
       "trait_type": "Accessory 1",

@@ -1,12 +1,12 @@
 {
   "name": "PEPO DGAF #814",
   "description": "CC0, NO ROADMAP, NO F*CKS GIVEN, JUST PIXEL ART PEPO PFPs.",
-  "image": "ipfs://QmaZgpn3waDRZyoFPud7zTjixasGHvx2FJr1FnmHC8tKSM/814.png",
+  "image": "ipfs://QmW8xifodMjxdmRstRhfvtszrwtsA6X7sLF4x7nChQAySe/814.png",
   "edition": 814,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Body",
@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Jorts"
     },
     {
       "trait_type": "Tops",
-      "value": "Gray Fannel"
+      "value": "Blue Fannel"
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Cobain Glasses"
+      "value": "Matrix Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Old Tophat"
+      "value": "Wild Hair Purple"
     },
     {
       "trait_type": "Accessory 1",
