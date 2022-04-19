@@ -5,8 +5,36 @@
   "edition": 46,
   "attributes": [
     {
+      "trait_type": "Body",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Mobster"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Waffle Knit"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Boxers"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Banana"
+    },
+    {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
@@ -14,15 +42,15 @@
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "Chucks"
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Blazer"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Orange Pants"
     },
     {
       "trait_type": "Face",

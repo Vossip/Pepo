@@ -5,10 +5,6 @@
   "edition": 25,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Dark Purple"
-    },
-    {
       "trait_type": "Body",
       "value": "Vibe"
     },
@@ -22,15 +18,51 @@
     },
     {
       "trait_type": "Face",
-      "value": "Special Friend"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Eye Patch"
+      "value": "Miami Shades"
     },
     {
       "trait_type": "Headwear",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory 1",
       "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smoker"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Cobain Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Rainbow"
     },
     {
       "trait_type": "Accessory 1",

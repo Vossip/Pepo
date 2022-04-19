@@ -5,10 +5,6 @@
   "edition": 45,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "New Punk Blue"
-    },
-    {
       "trait_type": "Body",
       "value": "Smoker"
     },
@@ -18,11 +14,11 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Green Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Golden Pants"
+      "value": "Pinstripe"
     },
     {
       "trait_type": "Face",
@@ -35,6 +31,38 @@
     {
       "trait_type": "Accessory 2",
       "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Mobster"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Waffle Knit"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Boxers"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Banana"
     }
   ]
 }

@@ -5,24 +5,20 @@
   "edition": 39,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "New Punk Blue"
-    },
-    {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Love Smoke"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "None"
     },
     {
       "trait_type": "Tops",
-      "value": "Green Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Face",
@@ -30,11 +26,43 @@
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Shroomy"
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Autoglyph"
+    },
+    {
+      "trait_type": "Body",
+      "value": "F*ck Off"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Waffle Knit"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Brown Regus"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
     }
   ]
 }

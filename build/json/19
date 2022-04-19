@@ -5,16 +5,12 @@
   "edition": 19,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Purple"
-    },
-    {
       "trait_type": "Body",
       "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Black Boots"
     },
     {
       "trait_type": "Bottom",
@@ -26,11 +22,11 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "Normal Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Chef"
+      "value": "Yellow Headband"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,43 @@
     },
     {
       "trait_type": "Accessory 2",
+      "value": "Tennis Racket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Body",
+      "value": "F*ck Off"
+    },
+    {
+      "trait_type": "Footwear",
       "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Damaged"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Green Puffballs"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Fishbowl"
     }
   ]
 }

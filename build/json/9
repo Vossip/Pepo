@@ -5,12 +5,8 @@
   "edition": 9,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Green"
-    },
-    {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
@@ -22,7 +18,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Cry"
+      "value": "Trippin"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +26,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Blue Puffballs"
     },
     {
       "trait_type": "Accessory 1",
@@ -39,6 +35,42 @@
     {
       "trait_type": "Accessory 2",
       "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Eternal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Vibe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Purple Puffballs"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Skull"
     }
   ]
 }

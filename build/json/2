@@ -5,12 +5,8 @@
   "edition": 2,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Blue"
-    },
-    {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -26,11 +22,11 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "The Big Lebowski Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Orange Hair"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,43 @@
     },
     {
       "trait_type": "Accessory 2",
+      "value": "TNT"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "F*ck Off"
+    },
+    {
+      "trait_type": "Footwear",
       "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "The Big Lebowski Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "Leis"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Tennis Racket"
     }
   ]
 }

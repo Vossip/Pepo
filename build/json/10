@@ -5,16 +5,12 @@
   "edition": 10,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Purple"
-    },
-    {
       "trait_type": "Body",
-      "value": "Cleaver"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "Black Boots"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
@@ -22,7 +18,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Sadisfied"
+      "value": "Scream"
     },
     {
       "trait_type": "Eyewear",
@@ -30,11 +26,47 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Mohawk Blue"
+      "value": "Purple Puffballs"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Paper Hand"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Normal Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pink Toque"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

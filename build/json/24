@@ -5,12 +5,8 @@
   "edition": 24,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Blue"
-    },
-    {
       "trait_type": "Body",
-      "value": "Paper Hand"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -22,15 +18,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Smile"
+      "value": "Cry"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "4D Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Jester"
+      "value": "Green Mullet"
     },
     {
       "trait_type": "Accessory 1",
@@ -39,6 +35,42 @@
     {
       "trait_type": "Accessory 2",
       "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Vibe"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Miami Shades"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Cheese"
     }
   ]
 }

@@ -5,12 +5,8 @@
   "edition": 37,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Green"
-    },
-    {
       "trait_type": "Body",
-      "value": "Trouble"
+      "value": "Paper Hand"
     },
     {
       "trait_type": "Footwear",
@@ -18,11 +14,11 @@
     },
     {
       "trait_type": "Tops",
-      "value": "Blue Blazer"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Light Wash"
+      "value": "Jorts"
     },
     {
       "trait_type": "Face",
@@ -31,6 +27,38 @@
     {
       "trait_type": "Accessory 1",
       "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "F*ck Off"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Little Secret"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "Leis"
     },
     {
       "trait_type": "Accessory 2",

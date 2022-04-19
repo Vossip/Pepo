@@ -5,12 +5,8 @@
   "edition": 21,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Purple"
-    },
-    {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Smoker"
     },
     {
       "trait_type": "Footwear",
@@ -22,15 +18,51 @@
     },
     {
       "trait_type": "Face",
-      "value": "Confused"
+      "value": "Sophisticated"
     },
     {
       "trait_type": "Eyewear",
-      "value": "The Big Lebowski Glasses"
+      "value": "None"
     },
     {
       "trait_type": "Headwear",
-      "value": "Sombrero"
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Margarita"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sophisticated"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Designer Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
     },
     {
       "trait_type": "Accessory 1",

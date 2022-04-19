@@ -40,6 +40,7 @@ const buildSetup = () => {
   fs.mkdirSync(buildDir);
   fs.mkdirSync(path.join(buildDir, "/json"));
   fs.mkdirSync(path.join(buildDir, "/images"));
+  fs.mkdirSync(path.join(buildDir, "/images_no_bg"));
 };
 
 const getRarityWeight = (_str) => {
@@ -98,6 +99,23 @@ const saveImage = (_editionCount) => {
     canvas.toBuffer("image/png")
   );
 };
+
+const saveImageNoBg = (_editionCount) => {
+  fs.writeFileSync(
+    `${buildDir}//images_no_bg/${_editionCount}.png`,
+    canvas.toBuffer("image/png")
+  );
+};
+
+const removeBg = (arr) => {
+  let toRemove = arr.splice(1,1);
+  for( var i = 0; i < arr.length; i++){ 
+    if ( arr[i] === toRemove) { 
+        arr.splice(i, 1); 
+    }
+  }
+  return arr;
+}
 
 const genColor = () => {
   let hue = Math.floor(Math.random() * 360);
@@ -303,12 +321,20 @@ const startCreating = async () => {
       let newDna = createDna(layers);
       if (isDnaUnique(dnaList, newDna)) {
         let results = constructLayerToDna(newDna, layers);
+        let resultsClone = removeBg(constructLayerToDna(newDna, layers));
         let loadedElements = [];
+        let loadedElementsClone = [];
 
         results.forEach((layer) => {
           loadedElements.push(loadLayerImg(layer));
         });
 
+        //No Background
+        resultsClone.forEach((layer) => {
+          loadedElementsClone.push(loadLayerImg(layer));
+        });
+
+        //With Background
         await Promise.all(loadedElements).then((renderObjectArray) => {
           debugLogs ? console.log("Clearing canvas") : null;
           ctx.clearRect(0, 0, format.width, format.height);
@@ -326,6 +352,7 @@ const startCreating = async () => {
             ? console.log("Editions left to create: ", abstractedIndexes)
             : null;
           saveImage(abstractedIndexes[0]);
+          saveImageNoBg(abstractedIndexes[0]);
           addMetadata(newDna, abstractedIndexes[0]);
           saveMetaDataSingleFile(abstractedIndexes[0]);
           console.log(
@@ -334,6 +361,17 @@ const startCreating = async () => {
             )}`
           );
         });
+
+        //No Background
+        await Promise.all(loadedElementsClone).then((renderObjectArray) => {
+          debugLogs ? console.log("Clearing canvas") : null;
+          ctx.clearRect(0, 0, format.width, format.height);
+          renderObjectArray.forEach((renderObject) => {
+            drawElement(renderObject);
+          });
+          saveImageNoBg(abstractedIndexes[0]);
+        });
+
         newDna.splice(0,1);
         dnaList.push(newDna);
         editionCount++;

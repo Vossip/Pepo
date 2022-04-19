@@ -5,12 +5,44 @@
   "edition": 27,
   "attributes": [
     {
+      "trait_type": "Body",
+      "value": "Smoker"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "White Sneakers"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Ski Goggles"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Poop"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    },
+    {
       "trait_type": "Background",
-      "value": "Dark Purple"
+      "value": "On Chain"
     },
     {
       "trait_type": "Body",
-      "value": "F*ck Off"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
@@ -22,7 +54,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Confused"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +62,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Pink Headband"
+      "value": "Pink Long"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +70,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Bone"
+      "value": "None"
     }
   ]
 }

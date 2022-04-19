@@ -5,12 +5,8 @@
   "edition": 20,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "New Punk Blue"
-    },
-    {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
@@ -30,7 +26,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Messy Hair Blue"
+      "value": "Green Puffballs"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,43 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "Fishbowl"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smoker"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sophisticated"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
     }
   ]
 }

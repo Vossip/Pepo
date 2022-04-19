@@ -5,16 +5,12 @@
   "edition": 18,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Green"
-    },
-    {
       "trait_type": "Body",
-      "value": "Margarita"
+      "value": "Vibe"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Red Chucks"
     },
     {
       "trait_type": "Bottom",
@@ -22,7 +18,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Evil"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyewear",
@@ -30,15 +26,51 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "Messy Hair Blue"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "Leis"
     },
     {
       "trait_type": "Accessory 2",
+      "value": "Gasoline"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smoker"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Black Boots"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eyewear",
       "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Yellow Headband"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Tennis Racket"
     }
   ]
 }

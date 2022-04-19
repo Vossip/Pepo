@@ -5,24 +5,52 @@
   "edition": 38,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Orange"
-    },
-    {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "White Sneakers"
+      "value": "None"
     },
     {
       "trait_type": "Tops",
-      "value": "White Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Golden Pants"
+      "value": "Little Secret"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "Leis"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Love Smoke"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Face",

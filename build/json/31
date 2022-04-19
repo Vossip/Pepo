@@ -5,24 +5,56 @@
   "edition": 31,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Dark Purple"
-    },
-    {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red Chucks"
-    },
-    {
-      "trait_type": "Tops",
-      "value": "Black Shirt"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
-      "value": "Blue Slacks"
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Orbit"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheers"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Blue Shirt"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Face",
@@ -34,7 +66,7 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Banana"
+      "value": "None"
     }
   ]
 }

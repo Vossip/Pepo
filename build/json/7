@@ -5,16 +5,12 @@
   "edition": 7,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Dark Purple"
-    },
-    {
       "trait_type": "Body",
-      "value": "Cheers"
+      "value": "Wiskey"
     },
     {
       "trait_type": "Footwear",
-      "value": "Red Chucks"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
@@ -26,11 +22,11 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "Ski Goggles"
+      "value": "4D Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Orange Hair"
+      "value": "Captain"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,43 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fat Stack"
+      "value": "Gasoline"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Orbit"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Designer Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Messy Hair Blue"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
     }
   ]
 }

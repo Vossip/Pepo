@@ -5,12 +5,8 @@
   "edition": 14,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Blue"
-    },
-    {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "Wiskey"
     },
     {
       "trait_type": "Footwear",
@@ -22,19 +18,55 @@
     },
     {
       "trait_type": "Face",
-      "value": "Disappointed"
+      "value": "Sadisfied"
     },
     {
       "trait_type": "Eyewear",
-      "value": "None"
+      "value": "Invisible Man Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Pink Headband"
+      "value": "Stringy"
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Silver Chain"
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smoker"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Slides"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sophisticated"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "The Big Lebowski Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Slim Blue"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
     },
     {
       "trait_type": "Accessory 2",

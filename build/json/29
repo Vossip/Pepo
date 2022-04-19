@@ -5,16 +5,12 @@
   "edition": 29,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Dark Purple"
-    },
-    {
       "trait_type": "Body",
-      "value": "Lollipop"
+      "value": "Cleaver"
     },
     {
       "trait_type": "Footwear",
-      "value": "Slides"
+      "value": "None"
     },
     {
       "trait_type": "Bottom",
@@ -22,15 +18,15 @@
     },
     {
       "trait_type": "Face",
-      "value": "Normal"
+      "value": "Trippin"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Cobain Glasses"
+      "value": "Matrix Glasses"
     },
     {
       "trait_type": "Headwear",
-      "value": "Beige Bucked Cap"
+      "value": "Green Brushcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,43 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Fishbowl"
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Background",
+      "value": "New Punk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "F*ck Off"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Miami Shades Golden"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Yellow Backwards Cap"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Tennis Racket"
     }
   ]
 }

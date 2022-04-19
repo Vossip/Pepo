@@ -5,12 +5,8 @@
   "edition": 41,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Autoglyph"
-    },
-    {
       "trait_type": "Body",
-      "value": "Love Smoke"
+      "value": "Margarita"
     },
     {
       "trait_type": "Footwear",
@@ -30,11 +26,43 @@
     },
     {
       "trait_type": "Accessory 1",
-      "value": "Golden Chain"
+      "value": "Leis"
     },
     {
       "trait_type": "Accessory 2",
       "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smoker"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Briefs"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Skull"
     }
   ]
 }

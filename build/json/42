@@ -5,8 +5,36 @@
   "edition": 42,
   "attributes": [
     {
+      "trait_type": "Body",
+      "value": "Smoker"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Briefs"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Skull"
+    },
+    {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
@@ -22,7 +50,7 @@
     },
     {
       "trait_type": "Bottom",
-      "value": "Briefs"
+      "value": "Jorts"
     },
     {
       "trait_type": "Face",

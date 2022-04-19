@@ -5,24 +5,20 @@
   "edition": 32,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Gold"
-    },
-    {
       "trait_type": "Body",
-      "value": "Vibe"
+      "value": "Cheers"
     },
     {
       "trait_type": "Footwear",
-      "value": "None"
+      "value": "Chucks"
     },
     {
       "trait_type": "Tops",
-      "value": "None"
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Bottom",
-      "value": "Orange Pants"
+      "value": "Gray Pants"
     },
     {
       "trait_type": "Face",
@@ -35,6 +31,38 @@
     {
       "trait_type": "Accessory 2",
       "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "F*ck Off"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Beige Boots"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Waffle Knit"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Briefs"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "Bone"
     }
   ]
 }

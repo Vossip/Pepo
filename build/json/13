@@ -5,12 +5,8 @@
   "edition": 13,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Blue"
-    },
-    {
       "trait_type": "Body",
-      "value": "Wata"
+      "value": "F*ck Off"
     },
     {
       "trait_type": "Footwear",
@@ -22,7 +18,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Sophisticated"
+      "value": "Sus"
     },
     {
       "trait_type": "Eyewear",
@@ -30,7 +26,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Cap"
+      "value": "Green Bowlcut"
     },
     {
       "trait_type": "Accessory 1",
@@ -38,7 +34,43 @@
     },
     {
       "trait_type": "Accessory 2",
-      "value": "Skull"
+      "value": "TNT"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wiskey"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Borat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadisfied"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Invisible Man Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Stringy"
+    },
+    {
+      "trait_type": "Accessory 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory 2",
+      "value": "None"
     }
   ]
 }
